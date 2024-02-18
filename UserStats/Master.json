@@ -137,6 +137,12 @@
       "total_execution": 2,
       "total_account": 2,
       "latest_execution_account": "mythszero"
+    },
+    {
+      "discord_id": "684281240261492755",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "TREX3401"
     }
   ]
 }
