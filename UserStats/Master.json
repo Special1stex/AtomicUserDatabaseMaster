@@ -1,64 +1,10 @@
 {
   "userstats": [
     {
-      "discord_id": "437654932124991520",
-      "total_execution": "1",
-      "total_account": "1",
-      "latest_execution_account": "NONE"
-    },
-    {
-      "discord_id": "695276325119983687",
-      "total_execution": "1",
-      "total_account": "1",
-      "latest_execution_account": "NONE"
-    },
-    {
-      "discord_id": "1154059095251361852",
-      "total_execution": "2",
-      "total_account": "2",
-      "latest_execution_account": "VibingRBLX_3"
-    },
-    {
       "discord_id": "1120936880935010335",
       "total_execution": 2,
       "total_account": 2,
-      "latest_execution_account": "marveluca10"
-    },
-    {
-      "discord_id": "838734547993493515",
-      "total_execution": "1",
-      "total_account": "1",
-      "latest_execution_account": "argahamizz"
-    },
-    {
-      "discord_id": "234554788845584384",
-      "total_execution": 1,
-      "total_account": 1,
-      "latest_execution_account": "doflasr"
-    },
-    {
-      "discord_id": "487640152538218506",
-      "total_execution": 1,
-      "total_account": 1,
-      "latest_execution_account": "zhorag"
-    },
-    {
-      "discord_id": "742966877852008448",
-      "total_execution": 2,
-      "total_account": 2,
-      "latest_execution_account": "Gahar_012"
-    },
-    {
-      "discord_id": "839404833564000256",
-      "total_execution": 1,
-      "total_account": 1,
-      "latest_execution_account": "argya_padang"
-    },
-    {
-      "discord_id": "866956981531836427",
-      "total_execution": 1,
-      "total_account": 1,
-      "latest_execution_account": "d4paaaa"
+      "latest_execution_account": "VztStuck"
     }
   ]
 }
