@@ -341,6 +341,12 @@
       "total_execution": "1",
       "total_account": "1",
       "latest_execution_account": "NONE"
+    },
+    {
+      "discord_id": "789704927786172441",
+      "total_execution": "1",
+      "total_account": "1",
+      "latest_execution_account": "NONE"
     }
   ]
 }
