@@ -341,6 +341,12 @@
       "total_execution": 2,
       "total_account": 2,
       "latest_execution_account": "Wisp44678"
+    },
+    {
+      "discord_id": "526518973886496778",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "kevinolimitnolimit"
     }
   ]
 }
