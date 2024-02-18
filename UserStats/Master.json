@@ -29,6 +29,12 @@
       "total_execution": "0",
       "total_account": "0",
       "latest_execution_account": "NONE"
+    },
+    {
+      "discord_id": "875241578778755073",
+      "total_execution": "1",
+      "total_account": "1",
+      "latest_execution_account": "NONE"
     }
   ]
 }
