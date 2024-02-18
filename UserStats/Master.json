@@ -107,6 +107,12 @@
       "total_execution": "2",
       "total_account": "2",
       "latest_execution_account": "ZANZZ45"
+    },
+    {
+      "discord_id": "670597226791436339",
+      "total_execution": "1",
+      "total_account": "1",
+      "latest_execution_account": "NONE"
     }
   ]
 }
