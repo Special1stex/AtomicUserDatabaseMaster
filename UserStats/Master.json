@@ -557,6 +557,12 @@
       "total_execution": 1,
       "total_account": 1,
       "latest_execution_account": "bokonggede1"
+    },
+    {
+      "discord_id": "685312501407154185",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "slowmivec"
     }
   ]
 }
