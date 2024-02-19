@@ -104,7 +104,7 @@
     },
     {
       "discord_id": "1161994730188583012",
-      "total_execution": 2,
+      "total_execution": 3,
       "total_account": 1,
       "latest_execution_account": "wtzr23"
     },
@@ -581,6 +581,12 @@
       "total_execution": 1,
       "total_account": 1,
       "latest_execution_account": "GunR0ck"
+    },
+    {
+      "discord_id": "1067770834325872680",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "thismeandrew"
     }
   ]
 }
