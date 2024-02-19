@@ -533,6 +533,12 @@
       "total_execution": 1,
       "total_account": 1,
       "latest_execution_account": "DewaCarryUs"
+    },
+    {
+      "discord_id": "509186103597727745",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "bursfog"
     }
   ]
 }
