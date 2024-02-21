@@ -692,9 +692,9 @@
     },
     {
       "discord_id": "870101520694255696",
-      "total_execution": 12,
-      "total_account": 9,
-      "latest_execution_account": "AureliusAug_17"
+      "total_execution": 13,
+      "total_account": 10,
+      "latest_execution_account": "Dr4gonlava"
     },
     {
       "discord_id": "1118833542315638794",
@@ -881,6 +881,12 @@
       "total_execution": 2,
       "total_account": 1,
       "latest_execution_account": "lav1ssh"
+    },
+    {
+      "discord_id": "1014912887506087987",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "andrewt502"
     }
   ]
 }
