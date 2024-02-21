@@ -791,6 +791,12 @@
       "total_execution": 3,
       "total_account": 1,
       "latest_execution_account": "am_7002"
+    },
+    {
+      "discord_id": "1126235535208362147",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Erec7o"
     }
   ]
 }
