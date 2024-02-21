@@ -875,6 +875,12 @@
       "total_execution": 1,
       "total_account": 1,
       "latest_execution_account": "aloktuned10"
+    },
+    {
+      "discord_id": "300615749574197248",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "lav1ssh"
     }
   ]
 }
