@@ -518,7 +518,7 @@
     },
     {
       "discord_id": "925941006023655424",
-      "total_execution": 4,
+      "total_execution": 5,
       "total_account": 1,
       "latest_execution_account": "liteimpulse0"
     },
@@ -1019,6 +1019,12 @@
       "total_execution": 3,
       "total_account": 1,
       "latest_execution_account": "Asatrijow"
+    },
+    {
+      "discord_id": "897304085529772083",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "VestiaLinzz"
     }
   ]
 }
