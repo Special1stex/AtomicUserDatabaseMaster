@@ -179,6 +179,15 @@
       "total_device": 1,
       "latest_hwid": "63bfbb39-1dcc-48a1-bd8b-7831fd998f29",
       "ip": "114.122.37.122"
+    },
+    {
+      "discord_id": "870101520694255696",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "javierisaarkawyasa",
+      "total_device": 1,
+      "latest_hwid": "8178382f-addb-4989-b036-f16a80647243",
+      "ip": "103.136.56.216"
     }
   ]
 }
