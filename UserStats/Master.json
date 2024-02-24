@@ -53,6 +53,15 @@
       "total_device": 1,
       "latest_hwid": "f0b44639-e04e-4d63-9392-e6d1f4f8a4db",
       "ip": "180.252.163.232"
+    },
+    {
+      "discord_id": "509186103597727745",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "playz_raffa",
+      "total_device": 1,
+      "latest_hwid": "8ff7d2d6-66d2-4364-bde6-4df8b903d359",
+      "ip": "125.164.16.131"
     }
   ]
 }
