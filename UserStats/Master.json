@@ -296,6 +296,15 @@
       "total_device": 1,
       "latest_hwid": "d66463e9-ca44-4791-ad1e-0e9c7f32c05e",
       "ip": "180.252.89.187"
+    },
+    {
+      "discord_id": "757764334628896768",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Clark_Super",
+      "total_device": 1,
+      "latest_hwid": "fdcd382e-d954-4efa-99a4-e379f25f8793",
+      "ip": "139.255.176.11"
     }
   ]
 }
