@@ -332,6 +332,15 @@
       "total_device": 1,
       "latest_hwid": "f738ed0c-ecaf-437c-8a9c-41791c09b738",
       "ip": "103.130.18.6"
+    },
+    {
+      "discord_id": "465475328257687555",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "ardmoza",
+      "total_device": 1,
+      "latest_hwid": "0dc5102d-2b0c-40af-b2c3-f44abddc04da",
+      "ip": "110.138.125.169"
     }
   ]
 }
