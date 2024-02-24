@@ -440,6 +440,15 @@
       "total_device": 1,
       "latest_hwid": "49f10d77-0fed-4e84-b9fd-4cdb1a6aedf2",
       "ip": "27.124.95.36"
+    },
+    {
+      "discord_id": "740939112042987630",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "malas_31",
+      "total_device": 1,
+      "latest_hwid": "46720973-eee4-4b14-a923-556c774be516",
+      "ip": "180.248.14.199"
     }
   ]
 }
