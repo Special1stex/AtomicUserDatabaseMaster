@@ -26,6 +26,15 @@
       "total_device": 1,
       "latest_hwid": "cafd9816-50bd-4b14-ab55-a5fd5fa286b1",
       "ip": "125.166.118.11"
+    },
+    {
+      "discord_id": "478094075048755230",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "frpp_hoki9",
+      "total_device": 1,
+      "latest_hwid": "faa8e881-7000-459b-93dc-60268772c5c8",
+      "ip": "103.84.5.43"
     }
   ]
 }
