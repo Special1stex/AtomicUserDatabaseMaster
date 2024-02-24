@@ -197,6 +197,15 @@
       "total_device": 1,
       "latest_hwid": "b34b022e-d65d-4e73-8c67-e9046b752eff",
       "ip": "125.166.2.98"
+    },
+    {
+      "discord_id": "467538776231772161",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Warlock71645",
+      "total_device": 1,
+      "latest_hwid": "386604c0-1906-4fa8-916f-11b3e16f16f5",
+      "ip": "140.0.213.189"
     }
   ]
 }
