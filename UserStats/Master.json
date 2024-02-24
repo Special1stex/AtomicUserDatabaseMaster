@@ -134,6 +134,15 @@
       "total_device": 2,
       "latest_hwid": "9c741bd7-dfd2-4fbf-942f-926644d2a264",
       "ip": "180.244.164.127"
+    },
+    {
+      "discord_id": "849635038248173588",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "naxyw8",
+      "total_device": 1,
+      "latest_hwid": "34e712cd-fbbd-4bc9-ae21-b45735541c5e",
+      "ip": "36.85.3.188"
     }
   ]
 }
