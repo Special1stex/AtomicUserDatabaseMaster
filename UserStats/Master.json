@@ -215,6 +215,15 @@
       "total_device": 1,
       "latest_hwid": "cffc7d1e-2550-48ab-8924-4147b218457f",
       "ip": "120.188.65.33"
+    },
+    {
+      "discord_id": "831926451468238888",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "SUS_EMXL",
+      "total_device": 1,
+      "latest_hwid": "75e3895e-dfb9-4563-9891-a0cdc6ca2351",
+      "ip": "36.73.34.95"
     }
   ]
 }
