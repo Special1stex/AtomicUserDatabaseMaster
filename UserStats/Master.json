@@ -350,6 +350,15 @@
       "total_device": 1,
       "latest_hwid": "8614e9f5-2dd0-48cd-a915-da1bce75247c",
       "ip": "103.175.229.2"
+    },
+    {
+      "discord_id": "1170018969407721532",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "brth1212",
+      "total_device": 1,
+      "latest_hwid": "72c66e57-e5cc-4cf9-8d9f-ef750d190591",
+      "ip": "180.252.95.75"
     }
   ]
 }
