@@ -101,11 +101,11 @@
     },
     {
       "discord_id": "875241578778755073",
-      "total_execution": 1,
-      "total_account": 1,
-      "latest_execution_account": "jumadioon",
-      "total_device": 1,
-      "latest_hwid": "55fe2b28-e79d-44c6-8b41-8b53d2b073bb",
+      "total_execution": 2,
+      "total_account": 2,
+      "latest_execution_account": "supirteladan",
+      "total_device": 2,
+      "latest_hwid": "c26dd230-a1b5-46dc-85c9-6a6fd49e83be",
       "ip": "36.73.33.175"
     }
   ]
