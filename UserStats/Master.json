@@ -98,6 +98,15 @@
       "total_device": 1,
       "latest_hwid": "e6b19fca-3d08-46aa-83e2-8a3a1c8658fa",
       "ip": "139.193.36.236"
+    },
+    {
+      "discord_id": "318073399450796042",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "PortunerBi",
+      "total_device": 1,
+      "latest_hwid": "0f4e7ae9-d3ae-4d51-8edf-3c09297cd14c",
+      "ip": "182.253.55.192"
     }
   ]
 }
