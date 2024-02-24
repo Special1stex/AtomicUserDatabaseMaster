@@ -1184,12 +1184,12 @@
     },
     {
       "discord_id": "708607112862892053",
-      "total_execution": 1,
-      "total_account": 1,
-      "latest_execution_account": "test",
-      "total_device": 1,
-      "latest_hwid": "hwid",
-      "ip": "1.1.1.1"
+      "total_execution": 2,
+      "total_account": 2,
+      "latest_execution_account": "RinzzNeverLose",
+      "total_device": 2,
+      "latest_hwid": "233672B0-5E99-4228-B89D-DEF7E6040B04",
+      "ip": "103.81.223.21"
     }
   ]
 }
