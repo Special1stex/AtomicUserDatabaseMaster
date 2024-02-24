@@ -80,6 +80,15 @@
       "total_device": 1,
       "latest_hwid": "a5fbd172-a2d2-4253-9ac5-cc20995e8bb7",
       "ip": "36.84.177.57"
+    },
+    {
+      "discord_id": "485809684784218112",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "flaksmich",
+      "total_device": 1,
+      "latest_hwid": "99635e65-659c-47ae-8cdd-2ee4246b26a9",
+      "ip": "103.154.109.206"
     }
   ]
 }
