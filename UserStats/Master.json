@@ -35,6 +35,15 @@
       "total_device": 1,
       "latest_hwid": "faa8e881-7000-459b-93dc-60268772c5c8",
       "ip": "103.84.5.43"
+    },
+    {
+      "discord_id": "697186159100690494",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "RoyalGaming24",
+      "total_device": 1,
+      "latest_hwid": "837302d1-3263-43f2-ade9-b32bb92b7dd4",
+      "ip": "104.28.245.126"
     }
   ]
 }
