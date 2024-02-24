@@ -278,6 +278,15 @@
       "total_device": 1,
       "latest_hwid": "50d8ba9a-dc13-45cc-bd9d-73e84f7684fe",
       "ip": "103.136.58.90"
+    },
+    {
+      "discord_id": "788280737395900437",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "4lanTzy",
+      "total_device": 1,
+      "latest_hwid": "5bd1770a-4fd8-40b1-a27d-8f109611b5be",
+      "ip": "103.111.143.254"
     }
   ]
 }
