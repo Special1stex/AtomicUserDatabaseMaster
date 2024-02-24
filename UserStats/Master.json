@@ -422,6 +422,15 @@
       "total_device": 1,
       "latest_hwid": "f963708f-2cf2-42a7-9562-a582db0ad18f",
       "ip": "158.140.170.118"
+    },
+    {
+      "discord_id": "1192111618272792616",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "2gd_Flyy",
+      "total_device": 1,
+      "latest_hwid": "1cb4e7d6-bc2d-491b-8102-069eb3fc251f",
+      "ip": "114.122.9.20"
     }
   ]
 }
