@@ -143,6 +143,15 @@
       "total_device": 1,
       "latest_hwid": "db3df516-2e1e-4f26-b5d6-1e91d5feb7ff",
       "ip": "118.136.120.146"
+    },
+    {
+      "discord_id": "286473925011963906",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "OPPlayer22415",
+      "total_device": 1,
+      "latest_hwid": "30f333ce-2605-4e3e-be00-87b3734e2b80",
+      "ip": "218.212.156.252"
     }
   ]
 }
