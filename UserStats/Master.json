@@ -17,6 +17,15 @@
       "total_device": 1,
       "latest_hwid": "ed6eeb3b-bce7-46e2-8eff-a8844ec6ef8e",
       "ip": "36.73.33.175"
+    },
+    {
+      "discord_id": "1029427321922392125",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "ayangkapl",
+      "total_device": 1,
+      "latest_hwid": "9301d7b9-66c0-442d-a1bc-2534c4aee6d5",
+      "ip": "110.136.114.38"
     }
   ]
 }
