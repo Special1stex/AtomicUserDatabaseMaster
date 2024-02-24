@@ -80,6 +80,15 @@
       "total_device": 1,
       "latest_hwid": "42b38849-48eb-4759-b7c7-d5784cf8aca2",
       "ip": "36.73.34.53"
+    },
+    {
+      "discord_id": "1052578797846806569",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Miawaug_biver",
+      "total_device": 1,
+      "latest_hwid": "63bfbb39-1dcc-48a1-bd8b-7831fd998f29",
+      "ip": "114.122.36.106"
     }
   ]
 }
