@@ -170,6 +170,15 @@
       "total_device": 1,
       "latest_hwid": "84ff588e-1abb-4649-a6c1-f8a4bb2a7fc2",
       "ip": "110.138.94.251"
+    },
+    {
+      "discord_id": "1180221867370483753",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "bebekganteng3121",
+      "total_device": 1,
+      "latest_hwid": "32b9571e-f176-4db5-94a5-613b0e8aad30",
+      "ip": "180.242.71.85"
     }
   ]
 }
