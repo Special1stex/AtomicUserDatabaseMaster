@@ -26,6 +26,15 @@
       "total_device": 8,
       "latest_hwid": "c010252f-bb83-4e7a-b41f-d01b1da074e6",
       "ip": "180.244.164.127"
+    },
+    {
+      "discord_id": "984324803433496596",
+      "total_execution": 11,
+      "total_account": 7,
+      "latest_execution_account": "ROBLOX_JOSUAH",
+      "total_device": 1,
+      "latest_hwid": "b9783601-df83-4120-bf57-fe66b42c03d7",
+      "ip": "182.1.90.109"
     }
   ]
 }
