@@ -206,6 +206,15 @@
       "total_device": 1,
       "latest_hwid": "386604c0-1906-4fa8-916f-11b3e16f16f5",
       "ip": "140.0.213.189"
+    },
+    {
+      "discord_id": "334295795417219072",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "superligera",
+      "total_device": 1,
+      "latest_hwid": "cffc7d1e-2550-48ab-8924-4147b218457f",
+      "ip": "120.188.65.33"
     }
   ]
 }
