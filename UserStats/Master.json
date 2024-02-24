@@ -80,6 +80,15 @@
       "total_device": 1,
       "latest_hwid": "ca7ca84e-4757-4bdc-b421-86aaeed09d0a",
       "ip": "138.75.50.209"
+    },
+    {
+      "discord_id": "561609493830434866",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Vitriol63",
+      "total_device": 1,
+      "latest_hwid": "1f2c2c65-ae6e-4ab0-b703-149a26dc8e0d",
+      "ip": "180.244.160.15"
     }
   ]
 }
