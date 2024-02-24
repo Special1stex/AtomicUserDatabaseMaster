@@ -89,6 +89,15 @@
       "total_device": 1,
       "latest_hwid": "63bfbb39-1dcc-48a1-bd8b-7831fd998f29",
       "ip": "114.122.36.106"
+    },
+    {
+      "discord_id": "873249037166473306",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Riz_gento",
+      "total_device": 1,
+      "latest_hwid": "e6b19fca-3d08-46aa-83e2-8a3a1c8658fa",
+      "ip": "139.193.36.236"
     }
   ]
 }
