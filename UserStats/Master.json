@@ -71,6 +71,15 @@
       "total_device": 1,
       "latest_hwid": "286256f4-8e24-4faa-b7d7-113cf3a033cd",
       "ip": "110.136.114.38"
+    },
+    {
+      "discord_id": "285812894518607884",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "MuhammadSandy",
+      "total_device": 1,
+      "latest_hwid": "42b38849-48eb-4759-b7c7-d5784cf8aca2",
+      "ip": "36.73.34.53"
     }
   ]
 }
