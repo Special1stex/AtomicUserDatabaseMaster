@@ -341,6 +341,15 @@
       "total_device": 1,
       "latest_hwid": "0dc5102d-2b0c-40af-b2c3-f44abddc04da",
       "ip": "110.138.125.169"
+    },
+    {
+      "discord_id": "729663873682112562",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "bangdanis",
+      "total_device": 1,
+      "latest_hwid": "ed7b9fe4-f32b-4a2b-bfab-badf6d941a8a",
+      "ip": "103.175.229.2"
     }
   ]
 }
