@@ -233,6 +233,15 @@
       "total_device": 1,
       "latest_hwid": "1ffe459a-d8a7-4e59-b642-4dcdebc615dd",
       "ip": "139.193.32.246"
+    },
+    {
+      "discord_id": "245130215498579969",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "HowPlayRobloxBro",
+      "total_device": 1,
+      "latest_hwid": "7427f253-8e56-4edc-bd8c-a179953c5a18",
+      "ip": "149.108.100.29"
     }
   ]
 }
