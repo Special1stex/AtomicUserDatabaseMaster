@@ -656,6 +656,15 @@
       "total_device": 1,
       "latest_hwid": "a9938683-2194-4aa8-923a-95eaabdd591b",
       "ip": "190.92.222.226"
+    },
+    {
+      "discord_id": "792344415888605214",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "AnonykoPlays",
+      "total_device": 1,
+      "latest_hwid": "57fde0c8-1c30-4fad-8453-d7356e6ddd35",
+      "ip": "180.247.226.2"
     }
   ]
 }
