@@ -728,6 +728,15 @@
       "total_device": 1,
       "latest_hwid": "6d75c6ab-23e5-454a-b473-bb847397e60a",
       "ip": "180.242.131.115"
+    },
+    {
+      "discord_id": "744921931991482388",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "velllasvegas",
+      "total_device": 1,
+      "latest_hwid": "d305327b-1a4f-4978-ba40-d1f62c2c817d",
+      "ip": "110.138.92.38"
     }
   ]
 }
