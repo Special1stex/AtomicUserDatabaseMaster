@@ -503,6 +503,15 @@
       "total_device": 1,
       "latest_hwid": "34bee5c3-57f1-4718-8fcf-ca284e708a17",
       "ip": "36.68.216.162"
+    },
+    {
+      "discord_id": "213520975000633348",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "OFBroVan",
+      "total_device": 1,
+      "latest_hwid": "48d8cfc1-6ed5-49df-bad3-7e91315e979d",
+      "ip": "125.166.2.206"
     }
   ]
 }
