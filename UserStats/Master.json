@@ -998,6 +998,15 @@
       "total_device": 1,
       "latest_hwid": "104a5de6-89c8-4103-9ede-605bac6b1edc",
       "ip": "103.121.138.228"
+    },
+    {
+      "discord_id": "964495009401430088",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Rachmat_Enzio",
+      "total_device": 1,
+      "latest_hwid": "015d5fa5-9f17-41ba-abf0-df4b3ac47026",
+      "ip": "180.252.126.3"
     }
   ]
 }
