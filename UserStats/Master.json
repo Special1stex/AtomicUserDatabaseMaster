@@ -539,6 +539,15 @@
       "total_device": 1,
       "latest_hwid": "60ea2ddf-33d7-4794-b9e0-d0cd0553a947",
       "ip": "149.108.193.206"
+    },
+    {
+      "discord_id": "697387211812896768",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "LimitedFxar3D",
+      "total_device": 1,
+      "latest_hwid": "D44C803E-FF95-4D57-8B01-8BC9805EFFEC",
+      "ip": "36.70.138.134"
     }
   ]
 }
