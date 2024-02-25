@@ -692,6 +692,15 @@
       "total_device": 1,
       "latest_hwid": "c0526a73-5500-4dc8-84ea-2578c163d2f3",
       "ip": "118.96.188.192"
+    },
+    {
+      "discord_id": "810480786423676959",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Galakwid8",
+      "total_device": 1,
+      "latest_hwid": "90059579-4feb-4e44-bbd2-b1b18bd566e1",
+      "ip": "125.160.225.28"
     }
   ]
 }
