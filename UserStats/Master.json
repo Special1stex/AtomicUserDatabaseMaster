@@ -1025,6 +1025,15 @@
       "total_device": 1,
       "latest_hwid": "cf9a003c-3587-4b48-9ad7-9f7428321b75",
       "ip": "140.0.234.75"
+    },
+    {
+      "discord_id": "984413878706389032",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Xiphoid78",
+      "total_device": 1,
+      "latest_hwid": "1c591c65-3b38-4285-a54b-affcbb01ef40",
+      "ip": "180.252.83.182"
     }
   ]
 }
