@@ -980,6 +980,15 @@
       "total_device": 1,
       "latest_hwid": "49fd2dfd-6a93-4edc-972c-a989526fdf50",
       "ip": "180.252.84.37"
+    },
+    {
+      "discord_id": "722372722080088105",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "EiixT",
+      "total_device": 1,
+      "latest_hwid": "d44eefb4-f841-45d8-95ad-6c8c08c764a8",
+      "ip": "180.252.87.54"
     }
   ]
 }
