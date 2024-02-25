@@ -650,10 +650,10 @@
     },
     {
       "discord_id": "827547268000382977",
-      "total_execution": 2,
+      "total_execution": 3,
       "total_account": 2,
       "latest_execution_account": "Simpaknos",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "a9938683-2194-4aa8-923a-95eaabdd591b",
       "ip": "190.92.222.226"
     }
