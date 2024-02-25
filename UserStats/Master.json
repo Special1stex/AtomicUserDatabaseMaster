@@ -764,6 +764,15 @@
       "total_device": 1,
       "latest_hwid": "c3bbcb4b-cdab-4b71-8a9e-c1c69a53168b",
       "ip": "36.68.220.245"
+    },
+    {
+      "discord_id": "669729317244239913",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "huntgin04",
+      "total_device": 1,
+      "latest_hwid": "c946b40f-ba84-4c29-976c-88095b2a0917",
+      "ip": "114.5.16.106"
     }
   ]
 }
