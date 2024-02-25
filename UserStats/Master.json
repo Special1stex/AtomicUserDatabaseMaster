@@ -953,6 +953,15 @@
       "total_device": 1,
       "latest_hwid": "d0362a53-ddd7-47f5-9ef7-1e4ffb4aa81f",
       "ip": "180.243.0.77"
+    },
+    {
+      "discord_id": "705773362001215549",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "AsukayangXIXIXI",
+      "total_device": 1,
+      "latest_hwid": "e067f872-3055-48f5-9559-19b183ce0379",
+      "ip": "158.140.173.41"
     }
   ]
 }
