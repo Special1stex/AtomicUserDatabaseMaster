@@ -908,6 +908,15 @@
       "total_device": 1,
       "latest_hwid": "9aae5777-f33e-4df9-90b1-9a63e57b2c2c",
       "ip": "36.72.39.94"
+    },
+    {
+      "discord_id": "769430809387073538",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "rafiputraaaaa",
+      "total_device": 1,
+      "latest_hwid": "ae96189c-4542-4544-a6b7-42767a3a2764",
+      "ip": "111.94.100.132"
     }
   ]
 }
