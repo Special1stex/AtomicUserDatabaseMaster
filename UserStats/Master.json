@@ -944,6 +944,15 @@
       "total_device": 1,
       "latest_hwid": "dca6af66-7596-4739-82df-76e39a89a7ae",
       "ip": "103.171.163.168"
+    },
+    {
+      "discord_id": "692643068473507842",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Syasiew",
+      "total_device": 1,
+      "latest_hwid": "d0362a53-ddd7-47f5-9ef7-1e4ffb4aa81f",
+      "ip": "180.243.0.77"
     }
   ]
 }
