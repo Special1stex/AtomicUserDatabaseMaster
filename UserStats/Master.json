@@ -863,6 +863,15 @@
       "total_device": 1,
       "latest_hwid": "ae455ec9-3a3f-4092-8f1f-ad6d65c34a63",
       "ip": "180.244.139.80"
+    },
+    {
+      "discord_id": "217564308404568065",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "CDIDMR0101",
+      "total_device": 1,
+      "latest_hwid": "56215afc-d430-4d73-818a-d55c80876f78",
+      "ip": "148.153.172.222"
     }
   ]
 }
