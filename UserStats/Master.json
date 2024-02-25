@@ -935,6 +935,15 @@
       "total_device": 1,
       "latest_hwid": "ded6e687-db06-47ad-934f-ea61b02e554e",
       "ip": "103.154.150.195"
+    },
+    {
+      "discord_id": "997352724578451517",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "lunaagst",
+      "total_device": 1,
+      "latest_hwid": "dca6af66-7596-4739-82df-76e39a89a7ae",
+      "ip": "103.171.163.168"
     }
   ]
 }
