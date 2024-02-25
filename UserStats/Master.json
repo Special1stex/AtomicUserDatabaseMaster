@@ -638,6 +638,15 @@
       "total_device": 1,
       "latest_hwid": "60b525f0-bb02-4ea9-a6d4-689444ea67a3",
       "ip": "182.3.37.98"
+    },
+    {
+      "discord_id": "431032048963158021",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "TTT_Wanny",
+      "total_device": 1,
+      "latest_hwid": "c812f579-4ea1-429d-bc9a-e726777882cb",
+      "ip": "49.228.179.10"
     }
   ]
 }
