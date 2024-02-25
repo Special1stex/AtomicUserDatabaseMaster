@@ -665,6 +665,15 @@
       "total_device": 1,
       "latest_hwid": "57fde0c8-1c30-4fad-8453-d7356e6ddd35",
       "ip": "180.247.226.2"
+    },
+    {
+      "discord_id": "485417524717027338",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "CELVIN_99",
+      "total_device": 1,
+      "latest_hwid": "f24a2d50-92e1-4c62-8ddc-69d1a30f117c",
+      "ip": "158.140.163.0"
     }
   ]
 }
