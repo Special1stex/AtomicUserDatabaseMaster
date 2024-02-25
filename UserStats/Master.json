@@ -485,6 +485,15 @@
       "total_device": 1,
       "latest_hwid": "41e5a72b-b6ca-44ea-bf40-f858cdc5d9fb",
       "ip": "180.254.41.117"
+    },
+    {
+      "discord_id": "771895711830376468",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "filbert_trial",
+      "total_device": 1,
+      "latest_hwid": "1e477da2-e244-446d-9329-3b9e8753ba44",
+      "ip": "36.78.119.5"
     }
   ]
 }
