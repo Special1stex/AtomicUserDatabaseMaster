@@ -719,6 +719,15 @@
       "total_device": 1,
       "latest_hwid": "325e5c00-7305-49be-a4e2-e0f209ec470f",
       "ip": "114.142.170.51"
+    },
+    {
+      "discord_id": "1053651094015856640",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Llubis21",
+      "total_device": 1,
+      "latest_hwid": "6d75c6ab-23e5-454a-b473-bb847397e60a",
+      "ip": "180.242.131.115"
     }
   ]
 }
