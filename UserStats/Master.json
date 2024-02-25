@@ -611,6 +611,15 @@
       "total_device": 1,
       "latest_hwid": "b34b022e-d65d-4e73-8c67-e9046b752eff",
       "ip": "125.166.2.55"
+    },
+    {
+      "discord_id": "756691027930251296",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "shima_saja5",
+      "total_device": 1,
+      "latest_hwid": "6ebfaa7d-31a7-4a8a-ab50-5360eda20f8d",
+      "ip": "111.94.100.41"
     }
   ]
 }
