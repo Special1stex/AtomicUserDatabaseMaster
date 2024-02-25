@@ -755,6 +755,15 @@
       "total_device": 1,
       "latest_hwid": "3daf52f4-d0a3-4c05-81a4-d653931589b2",
       "ip": "110.137.74.37"
+    },
+    {
+      "discord_id": "670597226791436339",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "deez_whatt11",
+      "total_device": 1,
+      "latest_hwid": "c3bbcb4b-cdab-4b71-8a9e-c1c69a53168b",
+      "ip": "36.68.220.245"
     }
   ]
 }
