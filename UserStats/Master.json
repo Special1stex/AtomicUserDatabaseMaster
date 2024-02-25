@@ -620,6 +620,15 @@
       "total_device": 1,
       "latest_hwid": "6ebfaa7d-31a7-4a8a-ab50-5360eda20f8d",
       "ip": "111.94.100.41"
+    },
+    {
+      "discord_id": "705047806775132200",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "TimesHaze",
+      "total_device": 1,
+      "latest_hwid": "eca6943d-a57e-479a-a05c-53ccdc949638",
+      "ip": "180.243.5.168"
     }
   ]
 }
