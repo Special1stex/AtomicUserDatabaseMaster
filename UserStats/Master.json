@@ -476,6 +476,15 @@
       "total_device": 1,
       "latest_hwid": "8b6f4f3f-2a4c-4a76-a7fa-41050db5861b",
       "ip": "110.136.1.227"
+    },
+    {
+      "discord_id": "742966877852008448",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "NIGTHD55",
+      "total_device": 1,
+      "latest_hwid": "41e5a72b-b6ca-44ea-bf40-f858cdc5d9fb",
+      "ip": "180.254.41.117"
     }
   ]
 }
