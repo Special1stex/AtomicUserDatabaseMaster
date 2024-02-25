@@ -371,8 +371,8 @@
     },
     {
       "discord_id": "541035608756322314",
-      "total_execution": 8,
-      "total_account": 7,
+      "total_execution": 6,
+      "total_account": 5,
       "latest_execution_account": "yogikz0",
       "total_device": 1,
       "latest_hwid": "93a329dd-1a26-4876-9282-3be5c0f3869b",
@@ -829,13 +829,13 @@
       "ip": "180.241.240.93"
     },
     {
-      "discord_id": "881529691436118077",
+      "discord_id": "988285291397799977",
       "total_execution": 1,
       "total_account": 1,
-      "latest_execution_account": "evlthirteen",
+      "latest_execution_account": "Acooobb",
       "total_device": 1,
-      "latest_hwid": "e9de36b6-b3ed-48ea-890d-25bc3ca9324b",
-      "ip": "180.242.58.130"
+      "latest_hwid": "53a80c79-88f4-4793-b105-83c1411b1c09",
+      "ip": "149.110.54.53"
     }
   ]
 }
