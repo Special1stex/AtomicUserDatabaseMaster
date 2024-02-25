@@ -641,11 +641,11 @@
     },
     {
       "discord_id": "431032048963158021",
-      "total_execution": 1,
-      "total_account": 1,
-      "latest_execution_account": "TTT_Wanny",
+      "total_execution": 2,
+      "total_account": 2,
+      "latest_execution_account": "s4_nxt",
       "total_device": 1,
-      "latest_hwid": "c812f579-4ea1-429d-bc9a-e726777882cb",
+      "latest_hwid": "2677df82-56e7-4f37-b66d-95665c831ab8",
       "ip": "49.228.179.10"
     }
   ]
