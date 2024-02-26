@@ -128,12 +128,12 @@
     },
     {
       "discord_id": "1184699268251013151",
-      "total_execution": 6,
+      "total_execution": 7,
       "total_account": 1,
       "latest_execution_account": "nensajq",
-      "total_device": 1,
-      "latest_hwid": "f7206aba-6170-4790-8b18-8579e52fad52",
-      "ip": "180.254.138.4"
+      "total_device": 2,
+      "latest_hwid": "5030dfd7-f0c2-4faf-8624-2455d11a9947",
+      "ip": "182.4.38.141"
     },
     {
       "discord_id": "735800100353343528",
