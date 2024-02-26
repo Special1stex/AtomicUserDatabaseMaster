@@ -1241,6 +1241,15 @@
       "total_device": 1,
       "latest_hwid": "22412dc4-b9eb-4622-a2ce-1e95e0f8ce30",
       "ip": "36.73.179.242"
+    },
+    {
+      "discord_id": "326035433744105474",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "INVISmask",
+      "total_device": 1,
+      "latest_hwid": "75cfa1fc-a47d-4bf2-8f55-b575f8bc78d1",
+      "ip": "111.94.144.106"
     }
   ]
 }
