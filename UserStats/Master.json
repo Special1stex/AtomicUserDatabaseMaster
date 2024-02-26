@@ -578,10 +578,10 @@
     },
     {
       "discord_id": "1029427321922392125",
-      "total_execution": 22,
+      "total_execution": 23,
       "total_account": 18,
       "latest_execution_account": "RIANDRA_JON",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "ae47890d-cdef-43b1-ac8d-923eaa76177b",
       "ip": "139.193.157.15"
     },
