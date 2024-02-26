@@ -1259,6 +1259,15 @@
       "total_device": 1,
       "latest_hwid": "084f456e-dbcb-4a26-89a5-87dbaeaed80f",
       "ip": "180.244.163.19"
+    },
+    {
+      "discord_id": "1132339363569729646",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "creamfad",
+      "total_device": 1,
+      "latest_hwid": "d7d82a6c-3a99-4dbc-a4f4-7ab8f9786fec",
+      "ip": "180.245.87.16"
     }
   ]
 }
