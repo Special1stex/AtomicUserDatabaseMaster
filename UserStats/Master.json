@@ -920,12 +920,12 @@
     },
     {
       "discord_id": "727074957196263476",
-      "total_execution": 2,
+      "total_execution": 3,
       "total_account": 1,
       "latest_execution_account": "Abizaid19",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "c1238cb8-3b1d-4036-b655-868f11e6c8d9",
-      "ip": "114.122.201.203"
+      "ip": "114.122.200.1"
     },
     {
       "discord_id": "980000635674050570",
