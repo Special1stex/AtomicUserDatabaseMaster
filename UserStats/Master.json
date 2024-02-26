@@ -1160,6 +1160,15 @@
       "total_device": 1,
       "latest_hwid": "8a7e67f9-d717-4227-a1a2-e85ef1bfdf31",
       "ip": "111.94.110.146"
+    },
+    {
+      "discord_id": "734433434260471819",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "IGODA002",
+      "total_device": 1,
+      "latest_hwid": "890d3d4b-115d-4f4f-9a32-e0dc73048d25",
+      "ip": "125.160.142.62"
     }
   ]
 }
