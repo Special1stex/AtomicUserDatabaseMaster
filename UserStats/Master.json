@@ -362,12 +362,12 @@
     },
     {
       "discord_id": "925941006023655424",
-      "total_execution": 2,
+      "total_execution": 3,
       "total_account": 1,
       "latest_execution_account": "liteimpulse0",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "c59bcc76-8a1e-4e43-a54e-39eb4ba957be",
-      "ip": "180.252.169.225"
+      "ip": "180.252.161.7"
     },
     {
       "discord_id": "541035608756322314",
