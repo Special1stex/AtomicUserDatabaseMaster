@@ -1349,6 +1349,15 @@
       "total_device": 1,
       "latest_hwid": "2ea46c18-d81e-44cd-b6b6-7f2b0dd219a3",
       "ip": "103.179.248.207"
+    },
+    {
+      "discord_id": "706407644620914689",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "SubToMiloPlays",
+      "total_device": 1,
+      "latest_hwid": "c0b830aa-2f19-4832-86d0-271a2d3b108f",
+      "ip": "118.137.166.99"
     }
   ]
 }
