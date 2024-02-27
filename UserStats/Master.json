@@ -236,12 +236,12 @@
     },
     {
       "discord_id": "245130215498579969",
-      "total_execution": 4,
-      "total_account": 2,
-      "latest_execution_account": "genlstore001",
-      "total_device": 1,
+      "total_execution": 5,
+      "total_account": 3,
+      "latest_execution_account": "almerjelk",
+      "total_device": 2,
       "latest_hwid": "d840ef02-b849-475d-8ee1-37b0592d9ae1",
-      "ip": "149.108.100.29"
+      "ip": "182.253.216.144"
     },
     {
       "discord_id": "908212206288650260",
