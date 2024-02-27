@@ -1358,6 +1358,15 @@
       "total_device": 1,
       "latest_hwid": "c0b830aa-2f19-4832-86d0-271a2d3b108f",
       "ip": "118.137.166.99"
+    },
+    {
+      "discord_id": "514806958499299338",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Gasskanbau",
+      "total_device": 1,
+      "latest_hwid": "bb71d6d1-8dd9-47ff-86b5-1264f94375cf",
+      "ip": "36.70.109.255"
     }
   ]
 }
