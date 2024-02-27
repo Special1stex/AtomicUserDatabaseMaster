@@ -1406,11 +1406,11 @@
     },
     {
       "discord_id": "234554788845584384",
-      "total_execution": 2,
-      "total_account": 1,
-      "latest_execution_account": "UjangMamak",
+      "total_execution": 3,
+      "total_account": 2,
+      "latest_execution_account": "AsepsKang",
       "total_device": 1,
-      "latest_hwid": "5bdd4d74-0706-483a-9cb1-04e4cda07aaa",
+      "latest_hwid": "9009a8f8-7283-40dd-b062-9fae42ab9d13",
       "ip": "103.136.56.216"
     }
   ]
