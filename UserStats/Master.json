@@ -1502,6 +1502,15 @@
       "total_device": 1,
       "latest_hwid": "f42b0a56-9f4f-4a84-ac92-1633c3e01d91",
       "ip": "180.247.25.165"
+    },
+    {
+      "discord_id": "707473968109453343",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "NetherGamer20",
+      "total_device": 1,
+      "latest_hwid": "7b052378-9ee0-4d08-a680-184e7354cc2b",
+      "ip": "182.253.59.31"
     }
   ]
 }
