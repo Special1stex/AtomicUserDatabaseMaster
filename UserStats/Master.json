@@ -1484,6 +1484,15 @@
       "total_device": 1,
       "latest_hwid": "1b2f99fa-9d89-4306-b7fa-d8ec81355cbc",
       "ip": "112.78.156.162"
+    },
+    {
+      "discord_id": "672440467673317408",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "BochilKematian24",
+      "total_device": 1,
+      "latest_hwid": "50f0e916-70bb-4f70-921a-d949dfd375b8",
+      "ip": "103.162.36.218"
     }
   ]
 }
