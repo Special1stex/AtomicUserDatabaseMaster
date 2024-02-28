@@ -281,12 +281,12 @@
     },
     {
       "discord_id": "788280737395900437",
-      "total_execution": 6,
+      "total_execution": 7,
       "total_account": 1,
       "latest_execution_account": "4lanTzy",
-      "total_device": 2,
-      "latest_hwid": "5bd1770a-4fd8-40b1-a27d-8f109611b5be",
-      "ip": "140.213.28.31"
+      "total_device": 3,
+      "latest_hwid": "a8b7761c-1411-4395-9990-4b3390e686e7",
+      "ip": "140.213.29.239"
     },
     {
       "discord_id": "1139183512252063894",
