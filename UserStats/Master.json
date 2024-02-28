@@ -1568,12 +1568,12 @@
     },
     {
       "discord_id": "437654932124991520",
-      "total_execution": 1,
+      "total_execution": 2,
       "total_account": 1,
       "latest_execution_account": "gsdnuif",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "58724f02-29d1-4b6d-8f77-230f125ea861",
-      "ip": "180.244.164.183"
+      "ip": "182.0.99.116"
     }
   ]
 }
