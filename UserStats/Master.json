@@ -1610,6 +1610,15 @@
       "total_device": 1,
       "latest_hwid": "5b42b8cf-738d-4f37-9299-31846b4876a3",
       "ip": "182.253.244.33"
+    },
+    {
+      "discord_id": "1177966855290372190",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "weraf203",
+      "total_device": 1,
+      "latest_hwid": "554541e8-dcf7-401b-9354-642c4b0f47ac",
+      "ip": "103.147.82.243"
     }
   ]
 }
