@@ -704,12 +704,12 @@
     },
     {
       "discord_id": "343510806929080322",
-      "total_execution": 7,
+      "total_execution": 8,
       "total_account": 2,
       "latest_execution_account": "0iAvril",
-      "total_device": 2,
-      "latest_hwid": "7f8a91ef-19d8-4bd3-acfe-66da2021b191",
-      "ip": "27.122.12.106"
+      "total_device": 3,
+      "latest_hwid": "333d330c-dcf2-4cf9-91d2-df5858389f47",
+      "ip": "103.111.102.60"
     },
     {
       "discord_id": "684281240261492755",
