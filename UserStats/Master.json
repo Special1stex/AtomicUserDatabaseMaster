@@ -1505,10 +1505,10 @@
     },
     {
       "discord_id": "707473968109453343",
-      "total_execution": 9,
+      "total_execution": 10,
       "total_account": 4,
       "latest_execution_account": "Ecatus",
-      "total_device": 4,
+      "total_device": 1,
       "latest_hwid": "8eba4ec6-5650-4145-a4f6-ffc0c60d8f26",
       "ip": "180.243.3.136"
     },
