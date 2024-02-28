@@ -1520,6 +1520,15 @@
       "total_device": 1,
       "latest_hwid": "1eb70cc4-90fe-4340-a533-ab7425f2bfc0",
       "ip": "36.84.168.252"
+    },
+    {
+      "discord_id": "546280223960858634",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "PaulForBan",
+      "total_device": 1,
+      "latest_hwid": "61a67cef-25f9-4041-a4be-173228a208d4",
+      "ip": "180.248.21.137"
     }
   ]
 }
