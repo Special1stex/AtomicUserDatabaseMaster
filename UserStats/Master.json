@@ -164,12 +164,12 @@
     },
     {
       "discord_id": "695288427016486962",
-      "total_execution": 9,
+      "total_execution": 10,
       "total_account": 1,
       "latest_execution_account": "Driffnc",
-      "total_device": 1,
-      "latest_hwid": "84ff588e-1abb-4649-a6c1-f8a4bb2a7fc2",
-      "ip": "110.138.92.109"
+      "total_device": 2,
+      "latest_hwid": "5ef37f53-6a42-4257-9735-9f94a27f8530",
+      "ip": "110.138.86.169"
     },
     {
       "discord_id": "1180221867370483753",
