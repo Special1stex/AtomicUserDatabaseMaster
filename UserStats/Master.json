@@ -1529,6 +1529,15 @@
       "total_device": 1,
       "latest_hwid": "61a67cef-25f9-4041-a4be-173228a208d4",
       "ip": "180.248.21.137"
+    },
+    {
+      "discord_id": "300615749574197248",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "lav1ssh",
+      "total_device": 1,
+      "latest_hwid": "7d778dfe-1636-45a5-a930-0d6fb7738197",
+      "ip": "180.244.167.120"
     }
   ]
 }
