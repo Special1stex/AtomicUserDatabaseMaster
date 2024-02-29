@@ -20,7 +20,7 @@
     },
     {
       "discord_id": "1154059095251361852",
-      "total_execution": 45,
+      "total_execution": 46,
       "total_account": 20,
       "latest_execution_account": "N20KAZZ",
       "total_device": 1,
@@ -479,10 +479,10 @@
     },
     {
       "discord_id": "742966877852008448",
-      "total_execution": 9,
+      "total_execution": 10,
       "total_account": 1,
       "latest_execution_account": "NIGTHD55",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "8a681179-8133-4abd-9084-f370c4916ff4",
       "ip": "125.164.157.172"
     },
