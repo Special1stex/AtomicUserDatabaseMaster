@@ -1613,10 +1613,10 @@
     },
     {
       "discord_id": "1177966855290372190",
-      "total_execution": 3,
+      "total_execution": 4,
       "total_account": 3,
       "latest_execution_account": "weraf203",
-      "total_device": 3,
+      "total_device": 1,
       "latest_hwid": "554541e8-dcf7-401b-9354-642c4b0f47ac",
       "ip": "103.147.82.243"
     },
