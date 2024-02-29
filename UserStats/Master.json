@@ -794,12 +794,12 @@
     },
     {
       "discord_id": "334295795417219072",
-      "total_execution": 8,
+      "total_execution": 9,
       "total_account": 1,
       "latest_execution_account": "superligera",
-      "total_device": 1,
-      "latest_hwid": "9d436bb5-4e60-4ac5-9980-886b2abc9bbb",
-      "ip": "114.10.69.207"
+      "total_device": 2,
+      "latest_hwid": "dbd9e656-b0d5-4657-8fec-99bb90d590d6",
+      "ip": "114.124.193.210"
     },
     {
       "discord_id": "262498797760806912",
