@@ -1745,6 +1745,15 @@
       "total_device": 1,
       "latest_hwid": "0414f2b2-26eb-43f5-9b65-521c088a0daa",
       "ip": "114.4.222.16"
+    },
+    {
+      "discord_id": "897304085529772083",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "VestiaLinzz",
+      "total_device": 1,
+      "latest_hwid": "12cd92df-7ac5-40fd-a0ae-0a0a71b5d862",
+      "ip": "125.166.12.130"
     }
   ]
 }
