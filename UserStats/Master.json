@@ -1700,6 +1700,15 @@
       "total_device": 1,
       "latest_hwid": "dadf3fd5-15b6-44f3-a458-cd5d32bfec4c",
       "ip": "180.252.120.39"
+    },
+    {
+      "discord_id": "509186103597727745",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Galangnibosh",
+      "total_device": 1,
+      "latest_hwid": "aec8030e-5c65-4f65-acec-0e5d0b8b2214",
+      "ip": "125.164.22.234"
     }
   ]
 }
