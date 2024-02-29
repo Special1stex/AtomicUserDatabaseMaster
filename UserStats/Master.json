@@ -1682,6 +1682,15 @@
       "total_device": 1,
       "latest_hwid": "8676cfc8-9bab-4a56-a2e6-b3d4eb44e596",
       "ip": "112.78.156.163"
+    },
+    {
+      "discord_id": "1182183075925459048",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "safira_ramdani",
+      "total_device": 1,
+      "latest_hwid": "13845d17-ca1b-4905-8954-bfe4572622cd",
+      "ip": "27.124.95.123"
     }
   ]
 }
