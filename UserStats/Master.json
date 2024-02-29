@@ -1727,6 +1727,15 @@
       "total_device": 1,
       "latest_hwid": "1d586541-ea30-404a-a59a-0bf2ca4330f9",
       "ip": "139.0.242.161"
+    },
+    {
+      "discord_id": "793133395579240449",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "AryaGantengBanget12",
+      "total_device": 1,
+      "latest_hwid": "5f7b9321-7827-4517-b42a-dfc9474fad8e",
+      "ip": "180.244.166.169"
     }
   ]
 }
