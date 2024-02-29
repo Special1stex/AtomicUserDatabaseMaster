@@ -1718,6 +1718,15 @@
       "total_device": 1,
       "latest_hwid": "c1bd2d77-996e-4c1c-9ed5-5192c1000ac2",
       "ip": "149.113.239.120"
+    },
+    {
+      "discord_id": "1131924321347063919",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "R1E3L7",
+      "total_device": 1,
+      "latest_hwid": "1d586541-ea30-404a-a59a-0bf2ca4330f9",
+      "ip": "139.0.242.161"
     }
   ]
 }
