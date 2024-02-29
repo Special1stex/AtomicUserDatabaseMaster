@@ -1763,6 +1763,15 @@
       "total_device": 1,
       "latest_hwid": "bb1f9784-c0ac-47b5-8edc-934577d330fd",
       "ip": "36.78.159.92"
+    },
+    {
+      "discord_id": "256375058543542272",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Partai_PDF",
+      "total_device": 1,
+      "latest_hwid": "f4133c04-c7f1-41d0-b24b-b029ed63d8fd",
+      "ip": "36.71.83.8"
     }
   ]
 }
