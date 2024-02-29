@@ -1754,6 +1754,15 @@
       "total_device": 1,
       "latest_hwid": "12cd92df-7ac5-40fd-a0ae-0a0a71b5d862",
       "ip": "125.166.12.130"
+    },
+    {
+      "discord_id": "923200972036128778",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Hafezx0",
+      "total_device": 1,
+      "latest_hwid": "bb1f9784-c0ac-47b5-8edc-934577d330fd",
+      "ip": "36.78.159.92"
     }
   ]
 }
