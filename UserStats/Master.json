@@ -443,12 +443,12 @@
     },
     {
       "discord_id": "740939112042987630",
-      "total_execution": 4,
+      "total_execution": 5,
       "total_account": 1,
       "latest_execution_account": "malas_31",
-      "total_device": 1,
-      "latest_hwid": "46720973-eee4-4b14-a923-556c774be516",
-      "ip": "180.248.14.199"
+      "total_device": 2,
+      "latest_hwid": "97271ebf-f5da-4c54-b65a-4eee27863f2f",
+      "ip": "180.248.13.148"
     },
     {
       "discord_id": "1162720361251606550",
