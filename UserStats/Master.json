@@ -1820,12 +1820,12 @@
     },
     {
       "discord_id": "805487413035401297",
-      "total_execution": 2,
+      "total_execution": 3,
       "total_account": 1,
       "latest_execution_account": "fingerplay110",
-      "total_device": 1,
-      "latest_hwid": "9351aed7-f281-4e68-b36d-903adfb24f2e",
-      "ip": "180.247.33.223"
+      "total_device": 2,
+      "latest_hwid": "8015a959-4946-4985-9075-63b7b6eaf489",
+      "ip": "182.2.7.215"
     }
   ]
 }
