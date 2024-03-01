@@ -1739,12 +1739,12 @@
     },
     {
       "discord_id": "754965843334397985",
-      "total_execution": 3,
+      "total_execution": 4,
       "total_account": 1,
       "latest_execution_account": "excelrdm",
-      "total_device": 1,
-      "latest_hwid": "0414f2b2-26eb-43f5-9b65-521c088a0daa",
-      "ip": "114.4.222.16"
+      "total_device": 2,
+      "latest_hwid": "f464082a-64bc-412f-ba2b-f8d3a36801b0",
+      "ip": "114.4.216.200"
     },
     {
       "discord_id": "897304085529772083",
