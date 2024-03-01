@@ -1460,12 +1460,12 @@
     },
     {
       "discord_id": "1167829507827318836",
-      "total_execution": 1,
+      "total_execution": 2,
       "total_account": 1,
       "latest_execution_account": "tahubulat2800",
-      "total_device": 1,
-      "latest_hwid": "9fd02a99-fe90-4f31-a756-9a53ecc7f45a",
-      "ip": "36.80.24.142"
+      "total_device": 2,
+      "latest_hwid": "81568cd0-095c-4559-8480-296ab0834a67",
+      "ip": "180.251.152.154"
     },
     {
       "discord_id": "789345282148139009",
