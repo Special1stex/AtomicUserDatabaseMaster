@@ -1790,6 +1790,15 @@
       "total_device": 1,
       "latest_hwid": "ecc1f348-f5a4-4c65-a2fd-24f00d212b1b",
       "ip": "110.137.193.111"
+    },
+    {
+      "discord_id": "238626262040444929",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "MinyerCuy",
+      "total_device": 1,
+      "latest_hwid": "0706e4eb-7c33-4d3e-8048-6f7b662e5851",
+      "ip": "125.165.107.1"
     }
   ]
 }
