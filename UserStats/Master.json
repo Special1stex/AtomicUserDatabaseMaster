@@ -758,12 +758,12 @@
     },
     {
       "discord_id": "670597226791436339",
-      "total_execution": 4,
+      "total_execution": 5,
       "total_account": 1,
       "latest_execution_account": "deez_whatt11",
-      "total_device": 1,
-      "latest_hwid": "86b4605b-62fb-43e0-a0ba-28eb901d7fa3",
-      "ip": "36.68.220.245"
+      "total_device": 2,
+      "latest_hwid": "4af781fb-c0cd-4590-90aa-213ccf67f172",
+      "ip": "125.167.75.35"
     },
     {
       "discord_id": "669729317244239913",
