@@ -1631,12 +1631,12 @@
     },
     {
       "discord_id": "1141618195590025317",
-      "total_execution": 7,
+      "total_execution": 8,
       "total_account": 1,
       "latest_execution_account": "potatocrispy_8",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "44eaf477-e990-47ed-b70a-9deb354d538b",
-      "ip": "183.78.120.61"
+      "ip": "183.78.120.251"
     },
     {
       "discord_id": "897064781729628190",
