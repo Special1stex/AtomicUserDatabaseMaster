@@ -1784,10 +1784,10 @@
     },
     {
       "discord_id": "436890339421323264",
-      "total_execution": 8,
+      "total_execution": 9,
       "total_account": 2,
       "latest_execution_account": "bbstore01",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "ecc1f348-f5a4-4c65-a2fd-24f00d212b1b",
       "ip": "36.78.14.41"
     },
