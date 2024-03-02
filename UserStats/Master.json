@@ -992,10 +992,10 @@
     },
     {
       "discord_id": "804598200727633930",
-      "total_execution": 4,
+      "total_execution": 5,
       "total_account": 2,
       "latest_execution_account": "badco01",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "882b5dca-0b4f-4e02-9bee-7ce0732548cb",
       "ip": "103.121.244.192"
     },
