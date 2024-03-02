@@ -722,12 +722,12 @@
     },
     {
       "discord_id": "1053651094015856640",
-      "total_execution": 35,
+      "total_execution": 36,
       "total_account": 25,
       "latest_execution_account": "daifa2007",
-      "total_device": 1,
-      "latest_hwid": "3797e397-6b3e-42d2-9b26-4dd8482291fd",
-      "ip": "180.243.4.226"
+      "total_device": 2,
+      "latest_hwid": "add062dd-69d4-4585-b6a1-2db114fc3f25",
+      "ip": "180.243.0.19"
     },
     {
       "discord_id": "744921931991482388",
