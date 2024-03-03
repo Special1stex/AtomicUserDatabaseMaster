@@ -911,10 +911,10 @@
     },
     {
       "discord_id": "769430809387073538",
-      "total_execution": 9,
+      "total_execution": 10,
       "total_account": 4,
       "latest_execution_account": "fanaticallend",
-      "total_device": 4,
+      "total_device": 1,
       "latest_hwid": "5eb97f02-a3ed-412c-a3e7-b8d1eb8857a5",
       "ip": "125.160.152.234"
     },
