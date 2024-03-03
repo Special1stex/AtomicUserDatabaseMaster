@@ -1961,6 +1961,15 @@
       "total_device": 1,
       "latest_hwid": "182730ec-7b3e-4583-9432-79d2d95c18c0",
       "ip": "182.253.228.98"
+    },
+    {
+      "discord_id": "265287665371447296",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "XxTakarov",
+      "total_device": 1,
+      "latest_hwid": "93a43cdf-e97b-40b7-b88f-98a8116410ef",
+      "ip": "140.213.52.15"
     }
   ]
 }
