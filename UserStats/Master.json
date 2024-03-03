@@ -983,12 +983,12 @@
     },
     {
       "discord_id": "722372722080088105",
-      "total_execution": 5,
+      "total_execution": 6,
       "total_account": 1,
       "latest_execution_account": "EiixT",
-      "total_device": 4,
-      "latest_hwid": "7f49edb6-3926-4cea-a4c3-1d50bc986707",
-      "ip": "182.3.42.14"
+      "total_device": 5,
+      "latest_hwid": "5494b67c-8764-49c9-8051-51ddba563b5d",
+      "ip": "182.2.142.46"
     },
     {
       "discord_id": "804598200727633930",
