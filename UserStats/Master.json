@@ -1874,12 +1874,12 @@
     },
     {
       "discord_id": "852913296952655872",
-      "total_execution": 2,
+      "total_execution": 3,
       "total_account": 1,
       "latest_execution_account": "KingBlack_086",
-      "total_device": 1,
-      "latest_hwid": "f281c3a9-71ab-4168-b84a-23fa4c98d85c",
-      "ip": "182.1.116.128"
+      "total_device": 2,
+      "latest_hwid": "a8ebf7eb-25d1-4027-b383-cb6a9bd50a95",
+      "ip": "182.1.118.234"
     },
     {
       "discord_id": "723100877350764586",
