@@ -182,12 +182,12 @@
     },
     {
       "discord_id": "1092792779031195648",
-      "total_execution": 19,
+      "total_execution": 20,
       "total_account": 1,
       "latest_execution_account": "ParetKotor",
-      "total_device": 1,
-      "latest_hwid": "19d4c987-c063-4b0e-aa18-e84a4132be82",
-      "ip": "180.252.56.11"
+      "total_device": 2,
+      "latest_hwid": "c7af5e71-d468-414d-8e13-f790212ffe84",
+      "ip": "180.252.53.90"
     },
     {
       "discord_id": "803054447227830272",
