@@ -1943,6 +1943,15 @@
       "total_device": 1,
       "latest_hwid": "f137e28a-455a-4bec-b26b-9853088df913",
       "ip": "182.253.54.217"
+    },
+    {
+      "discord_id": "862979280552329243",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Notsofriendly13",
+      "total_device": 1,
+      "latest_hwid": "06ff4259-9fe9-461b-8716-57f318463099",
+      "ip": "180.244.164.145"
     }
   ]
 }
