@@ -722,12 +722,12 @@
     },
     {
       "discord_id": "1053651094015856640",
-      "total_execution": 55,
-      "total_account": 42,
-      "latest_execution_account": "kantorsans",
-      "total_device": 1,
-      "latest_hwid": "6b488fb4-85a9-4427-99db-7aa08196c2a5",
-      "ip": "180.243.15.79"
+      "total_execution": 56,
+      "total_account": 43,
+      "latest_execution_account": "iatve",
+      "total_device": 2,
+      "latest_hwid": "343bdb2b-21ff-4810-8bdb-9821d16b99f4",
+      "ip": "180.243.12.253"
     },
     {
       "discord_id": "744921931991482388",
