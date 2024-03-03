@@ -1925,6 +1925,15 @@
       "total_device": 1,
       "latest_hwid": "12503a49-4702-40c1-8e1d-e5a9b15fe704",
       "ip": "180.241.250.38"
+    },
+    {
+      "discord_id": "1188090952007553065",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Bonjezz7",
+      "total_device": 1,
+      "latest_hwid": "62db3d3d-90ad-4642-95f0-437a30c7ee9b",
+      "ip": "36.74.42.13"
     }
   ]
 }
