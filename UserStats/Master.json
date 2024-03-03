@@ -515,12 +515,12 @@
     },
     {
       "discord_id": "712912145490116619",
-      "total_execution": 54,
+      "total_execution": 55,
       "total_account": 14,
       "latest_execution_account": "Kivegom",
-      "total_device": 1,
-      "latest_hwid": "e08527be-24cc-424f-88c8-1477c1b98b8c",
-      "ip": "180.242.198.106"
+      "total_device": 2,
+      "latest_hwid": "3fa39be1-f748-4095-bace-5b4a2a9dc255",
+      "ip": "111.95.74.123"
     },
     {
       "discord_id": "392261481280045058",
