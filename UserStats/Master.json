@@ -587,10 +587,10 @@
     },
     {
       "discord_id": "487640152538218506",
-      "total_execution": 15,
+      "total_execution": 16,
       "total_account": 1,
       "latest_execution_account": "zhorag",
-      "total_device": 4,
+      "total_device": 1,
       "latest_hwid": "527d5ddb-8e48-44bf-b6fc-f1a7605931da",
       "ip": "125.166.9.216"
     },
