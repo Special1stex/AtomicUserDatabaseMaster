@@ -686,12 +686,12 @@
     },
     {
       "discord_id": "1011811610643398716",
-      "total_execution": 21,
-      "total_account": 15,
-      "latest_execution_account": "esnew11",
-      "total_device": 1,
+      "total_execution": 22,
+      "total_account": 16,
+      "latest_execution_account": "esnew10",
+      "total_device": 2,
       "latest_hwid": "81461cea-9cfc-42ca-b764-c9e9427d1c90",
-      "ip": "118.96.189.116"
+      "ip": "125.167.59.209"
     },
     {
       "discord_id": "810480786423676959",
