@@ -596,10 +596,10 @@
     },
     {
       "discord_id": "468338732563431424",
-      "total_execution": 68,
-      "total_account": 34,
+      "total_execution": 62,
+      "total_account": 29,
       "latest_execution_account": "Leo_Kouzen",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "45e4b84d-1a09-454e-8120-d3b654480505",
       "ip": "110.139.164.130"
     },
