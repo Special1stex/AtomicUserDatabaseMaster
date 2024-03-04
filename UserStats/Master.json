@@ -506,10 +506,10 @@
     },
     {
       "discord_id": "213520975000633348",
-      "total_execution": 5,
+      "total_execution": 6,
       "total_account": 1,
       "latest_execution_account": "OFBroVan",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "8a40fc3f-304e-4c5a-a329-0f6fec3b9a27",
       "ip": "36.65.1.213"
     },
