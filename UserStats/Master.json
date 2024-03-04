@@ -2015,6 +2015,15 @@
       "total_device": 2,
       "latest_hwid": "c18b58d3-ec06-4620-8a07-e5aca7de139c",
       "ip": "180.252.92.236"
+    },
+    {
+      "discord_id": "335662677487648768",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "DhafiazGembel",
+      "total_device": 1,
+      "latest_hwid": "dc340595-cd9c-4192-8eea-8cd97b2829b8",
+      "ip": "180.244.167.28"
     }
   ]
 }
