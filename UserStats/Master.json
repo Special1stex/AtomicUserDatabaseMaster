@@ -506,12 +506,12 @@
     },
     {
       "discord_id": "213520975000633348",
-      "total_execution": 4,
+      "total_execution": 5,
       "total_account": 1,
       "latest_execution_account": "OFBroVan",
-      "total_device": 1,
-      "latest_hwid": "b8e3796c-a44d-409b-b637-89caf8d8415f",
-      "ip": "125.166.3.174"
+      "total_device": 2,
+      "latest_hwid": "8a40fc3f-304e-4c5a-a329-0f6fec3b9a27",
+      "ip": "36.65.1.213"
     },
     {
       "discord_id": "712912145490116619",
