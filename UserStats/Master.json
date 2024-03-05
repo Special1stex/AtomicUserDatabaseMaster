@@ -1424,10 +1424,10 @@
     },
     {
       "discord_id": "1201135347615150230",
-      "total_execution": 27,
+      "total_execution": 28,
       "total_account": 17,
       "latest_execution_account": "Luxenod",
-      "total_device": 4,
+      "total_device": 1,
       "latest_hwid": "f7a007d9-bfb5-44ab-a9cf-1ba8c8c3b360",
       "ip": "58.216.59.20"
     },
