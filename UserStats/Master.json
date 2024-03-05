@@ -2006,6 +2006,15 @@
       "total_device": 1,
       "latest_hwid": "84338cd1-7113-4b38-a1dc-52d5b4bc47c7",
       "ip": "182.253.183.6"
+    },
+    {
+      "discord_id": "1118453649727823974",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "RinzzNeverLose",
+      "total_device": 1,
+      "latest_hwid": "233672B0-5E99-4228-B89D-DEF7E6040B04",
+      "ip": "150.107.244.245"
     }
   ]
 }
