@@ -2033,6 +2033,15 @@
       "total_device": 1,
       "latest_hwid": "a85c3efe-079c-4630-aed3-2afa2017fdcf",
       "ip": "103.3.220.147"
+    },
+    {
+      "discord_id": "728568674041987102",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "MarVuiLa_BE",
+      "total_device": 1,
+      "latest_hwid": "d61a204b-acca-4621-8bf8-8dede3536fdc",
+      "ip": "111.95.0.226"
     }
   ]
 }
