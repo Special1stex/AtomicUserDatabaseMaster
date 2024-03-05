@@ -2141,6 +2141,15 @@
       "total_device": 1,
       "latest_hwid": "c060066d-d147-4ba3-bba5-542aeb9b73c1",
       "ip": "110.138.95.41"
+    },
+    {
+      "discord_id": "314087358440013835",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "poli081",
+      "total_device": 1,
+      "latest_hwid": "0ef80917-3073-4d9a-8980-dfdde0f4be4f",
+      "ip": "114.141.49.110"
     }
   ]
 }
