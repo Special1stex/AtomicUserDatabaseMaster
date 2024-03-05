@@ -641,12 +641,12 @@
     },
     {
       "discord_id": "431032048963158021",
-      "total_execution": 10,
-      "total_account": 8,
-      "latest_execution_account": "Mu_e40",
-      "total_device": 1,
-      "latest_hwid": "92446e09-429f-48c3-9175-565a3c063aa8",
-      "ip": "49.228.179.47"
+      "total_execution": 11,
+      "total_account": 9,
+      "latest_execution_account": "neminthorn2545",
+      "total_device": 2,
+      "latest_hwid": "55d60d24-0825-46c6-a883-045820ec243c",
+      "ip": "49.228.176.71"
     },
     {
       "discord_id": "827547268000382977",
