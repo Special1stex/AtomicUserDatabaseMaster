@@ -2150,6 +2150,15 @@
       "total_device": 1,
       "latest_hwid": "0ef80917-3073-4d9a-8980-dfdde0f4be4f",
       "ip": "114.141.49.110"
+    },
+    {
+      "discord_id": "965282817506443334",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "nokumeshii",
+      "total_device": 1,
+      "latest_hwid": "6438dc8f-3954-4a97-a18c-dd16f75ed23c",
+      "ip": "36.68.9.136"
     }
   ]
 }
