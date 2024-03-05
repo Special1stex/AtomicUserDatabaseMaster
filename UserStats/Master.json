@@ -2042,6 +2042,15 @@
       "total_device": 1,
       "latest_hwid": "aafb9810-6755-42ee-8d83-4bb776f175f7",
       "ip": "149.110.160.4"
+    },
+    {
+      "discord_id": "728568674041987102",
+      "total_execution": 2,
+      "total_account": 1,
+      "latest_execution_account": "MarVuiLa_BE",
+      "total_device": 1,
+      "latest_hwid": "d61a204b-acca-4621-8bf8-8dede3536fdc",
+      "ip": "111.95.0.226"
     }
   ]
 }
