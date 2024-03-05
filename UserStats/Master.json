@@ -2015,6 +2015,15 @@
       "total_device": 1,
       "latest_hwid": "233672B0-5E99-4228-B89D-DEF7E6040B04",
       "ip": "150.107.244.245"
+    },
+    {
+      "discord_id": "672062995316211713",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "LimaPangkatDua",
+      "total_device": 1,
+      "latest_hwid": "b81f5bd0-ebae-4fe1-9f41-d4a37f9bf5ac",
+      "ip": "103.3.221.0"
     }
   ]
 }
