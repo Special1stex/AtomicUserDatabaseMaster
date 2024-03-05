@@ -1928,12 +1928,12 @@
     },
     {
       "discord_id": "1188090952007553065",
-      "total_execution": 15,
+      "total_execution": 16,
       "total_account": 3,
       "latest_execution_account": "ATGaming_26",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "a80a7305-8491-4e73-8f8e-464a0b3747dc",
-      "ip": "116.206.14.29"
+      "ip": "116.206.14.1"
     },
     {
       "discord_id": "1083785675725340743",
