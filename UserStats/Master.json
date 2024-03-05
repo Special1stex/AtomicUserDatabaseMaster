@@ -1997,6 +1997,15 @@
       "total_device": 1,
       "latest_hwid": "6e6fab30-b7ce-48f0-83bf-c2edc8290ee3",
       "ip": "180.254.90.112"
+    },
+    {
+      "discord_id": "1098971315421069392",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "enrico7ev",
+      "total_device": 1,
+      "latest_hwid": "84338cd1-7113-4b38-a1dc-52d5b4bc47c7",
+      "ip": "182.253.183.6"
     }
   ]
 }
