@@ -2051,6 +2051,15 @@
       "total_device": 1,
       "latest_hwid": "d61a204b-acca-4621-8bf8-8dede3536fdc",
       "ip": "111.95.0.226"
+    },
+    {
+      "discord_id": "696390789755961446",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Denny_indonesian",
+      "total_device": 1,
+      "latest_hwid": "8c734f25-e1e9-4736-99de-a36ec9b27334",
+      "ip": "180.252.166.0"
     }
   ]
 }
