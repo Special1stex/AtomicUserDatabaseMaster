@@ -1838,12 +1838,12 @@
     },
     {
       "discord_id": "633921167987834881",
-      "total_execution": 4,
+      "total_execution": 5,
       "total_account": 1,
       "latest_execution_account": "agusprima308",
-      "total_device": 1,
-      "latest_hwid": "0ba6f1ba-57c3-4526-ada7-f04045720d39",
-      "ip": "103.147.8.101"
+      "total_device": 2,
+      "latest_hwid": "400c16e2-7f3c-47e3-a99c-1cf4ddb2ec51",
+      "ip": "180.244.139.225"
     },
     {
       "discord_id": "1161994730188583012",
