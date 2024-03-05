@@ -1811,12 +1811,12 @@
     },
     {
       "discord_id": "1079758568905003171",
-      "total_execution": 5,
+      "total_execution": 6,
       "total_account": 1,
       "latest_execution_account": "caseykaspol123",
-      "total_device": 1,
-      "latest_hwid": "8efee0f2-3645-4bf3-b97d-ad4005d59103",
-      "ip": "36.69.11.78"
+      "total_device": 2,
+      "latest_hwid": "bcb729f5-9477-4f55-9d05-7588b7ef3b16",
+      "ip": "36.69.9.54"
     },
     {
       "discord_id": "805487413035401297",
