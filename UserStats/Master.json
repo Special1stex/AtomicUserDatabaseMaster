@@ -695,12 +695,12 @@
     },
     {
       "discord_id": "810480786423676959",
-      "total_execution": 2,
-      "total_account": 1,
-      "latest_execution_account": "Galakwid8",
-      "total_device": 1,
-      "latest_hwid": "90059579-4feb-4e44-bbd2-b1b18bd566e1",
-      "ip": "125.160.225.28"
+      "total_execution": 3,
+      "total_account": 2,
+      "latest_execution_account": "Galakwid11",
+      "total_device": 2,
+      "latest_hwid": "b1beb019-3fba-4139-ba2a-c7f9c7ff606c",
+      "ip": "125.160.235.147"
     },
     {
       "discord_id": "343510806929080322",
