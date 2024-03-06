@@ -1856,12 +1856,12 @@
     },
     {
       "discord_id": "962304145098960957",
-      "total_execution": 9,
+      "total_execution": 10,
       "total_account": 3,
       "latest_execution_account": "ExecutiveMoeda",
-      "total_device": 2,
+      "total_device": 3,
       "latest_hwid": "d26db17f-815a-49bc-9e3d-fc1c90d0821f",
-      "ip": "103.189.207.240"
+      "ip": "103.189.207.255"
     },
     {
       "discord_id": "1055630146557710456",
