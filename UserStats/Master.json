@@ -2393,6 +2393,15 @@
       "total_device": 1,
       "latest_hwid": "edbfab74-2ea1-4595-a1f9-0af5e5268cef",
       "ip": "101.128.104.110"
+    },
+    {
+      "discord_id": "1112694114119602220",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "AKUGEV",
+      "total_device": 1,
+      "latest_hwid": "e50fb0d5-995d-42e2-981a-30cadc61dedc",
+      "ip": "180.245.77.218"
     }
   ]
 }
