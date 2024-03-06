@@ -2456,6 +2456,15 @@
       "total_device": 1,
       "latest_hwid": "35a10f31-fc1f-4052-a1f6-175f045bed23",
       "ip": "180.242.199.142"
+    },
+    {
+      "discord_id": "1201887407365160976",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "man_yaw4",
+      "total_device": 1,
+      "latest_hwid": "7bfdf063-c486-4c9a-ae07-c9d7502ec158",
+      "ip": "36.73.190.9"
     }
   ]
 }
