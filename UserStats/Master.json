@@ -84,10 +84,10 @@
     {
       "discord_id": "561609493830434866",
       "total_execution": 119,
-      "total_account": 100,
-      "latest_execution_account": "SrXdii",
+      "total_account": 99,
+      "latest_execution_account": "lincolngavin1",
       "total_device": 1,
-      "latest_hwid": "f9352ed5-f26b-4bb2-99b7-6517199bdfb9",
+      "latest_hwid": "cf94eeec-e7ed-4695-bc42-b8fc664c20c5",
       "ip": "180.244.162.171"
     },
     {
@@ -1685,9 +1685,9 @@
     },
     {
       "discord_id": "1182183075925459048",
-      "total_execution": 31,
-      "total_account": 11,
-      "latest_execution_account": "ALTACCCDID",
+      "total_execution": 32,
+      "total_account": 12,
+      "latest_execution_account": "HardEliminator",
       "total_device": 1,
       "latest_hwid": "403f0601-69e9-44aa-abd5-5b0a63d5f3e4",
       "ip": "27.124.95.123"
