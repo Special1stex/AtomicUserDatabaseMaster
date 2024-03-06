@@ -2357,6 +2357,15 @@
       "total_device": 1,
       "latest_hwid": "6e6fab30-b7ce-48f0-83bf-c2edc8290ee3",
       "ip": "180.254.90.112"
+    },
+    {
+      "discord_id": "767922717244391475",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "CHKicu_GL",
+      "total_device": 1,
+      "latest_hwid": "71932ab5-c9e5-4a76-8f20-0260253a2442",
+      "ip": "202.80.214.122"
     }
   ]
 }
