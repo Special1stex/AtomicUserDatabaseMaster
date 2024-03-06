@@ -2072,12 +2072,12 @@
     },
     {
       "discord_id": "1098971315421069392",
-      "total_execution": 2,
+      "total_execution": 3,
       "total_account": 1,
       "latest_execution_account": "enrico7ev",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "84338cd1-7113-4b38-a1dc-52d5b4bc47c7",
-      "ip": "182.253.183.6"
+      "ip": "182.253.183.2"
     },
     {
       "discord_id": "1209046788321972224",
