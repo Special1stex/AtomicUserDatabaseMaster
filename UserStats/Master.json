@@ -2321,6 +2321,15 @@
       "total_device": 1,
       "latest_hwid": "5a3a5ce3-c31d-43bf-8f47-b988e2de531c",
       "ip": "182.4.133.4"
+    },
+    {
+      "discord_id": "907439056516952064",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "JasonFabregas12",
+      "total_device": 1,
+      "latest_hwid": "78b0c879-e74b-432a-a4c1-cdc5ee3cc029",
+      "ip": "202.80.215.74"
     }
   ]
 }
