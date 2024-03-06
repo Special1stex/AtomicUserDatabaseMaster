@@ -2063,10 +2063,10 @@
     },
     {
       "discord_id": "1176849778928259124",
-      "total_execution": 3,
+      "total_execution": 4,
       "total_account": 1,
       "latest_execution_account": "330MS",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "a422ac0d-44f8-4639-a57e-b9a817aec0b2",
       "ip": "180.244.129.16"
     },
