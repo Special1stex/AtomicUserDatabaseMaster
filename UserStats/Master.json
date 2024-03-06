@@ -2411,6 +2411,15 @@
       "total_device": 1,
       "latest_hwid": "79bf96b9-0998-497a-89d7-2a5ee4a837c9",
       "ip": "110.138.95.186"
+    },
+    {
+      "discord_id": "948918685991600129",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "blackerwindow",
+      "total_device": 1,
+      "latest_hwid": "a94baa7b-db90-4f5c-9ebd-42ef65b4e82c",
+      "ip": "180.252.125.58"
     }
   ]
 }
