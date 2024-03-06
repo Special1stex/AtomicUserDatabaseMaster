@@ -1802,12 +1802,12 @@
     },
     {
       "discord_id": "831926451468238888",
-      "total_execution": 31,
+      "total_execution": 32,
       "total_account": 19,
       "latest_execution_account": "abcdezdek",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "75e3895e-dfb9-4563-9891-a0cdc6ca2351",
-      "ip": "36.73.33.53"
+      "ip": "36.73.33.189"
     },
     {
       "discord_id": "1079758568905003171",
