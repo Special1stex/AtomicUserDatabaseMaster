@@ -2258,6 +2258,15 @@
       "total_device": 1,
       "latest_hwid": "bac4376d-8bfb-4aee-9574-144544e05afd",
       "ip": "180.244.163.179"
+    },
+    {
+      "discord_id": "386727168715128842",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "babymeloxx",
+      "total_device": 1,
+      "latest_hwid": "b0f7622d-cfe5-4c20-937d-a9d546deb674",
+      "ip": "182.253.57.110"
     }
   ]
 }
