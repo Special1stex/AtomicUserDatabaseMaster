@@ -713,12 +713,12 @@
     },
     {
       "discord_id": "684281240261492755",
-      "total_execution": 80,
+      "total_execution": 81,
       "total_account": 13,
       "latest_execution_account": "FAR0601",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "35d3d778-0f38-42bb-9dda-eb02e27ab722",
-      "ip": "114.142.171.20"
+      "ip": "114.142.168.9"
     },
     {
       "discord_id": "1053651094015856640",
