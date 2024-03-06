@@ -1028,12 +1028,12 @@
     },
     {
       "discord_id": "984413878706389032",
-      "total_execution": 10,
+      "total_execution": 11,
       "total_account": 1,
       "latest_execution_account": "Xiphoid78",
-      "total_device": 1,
-      "latest_hwid": "e8fc6587-7ced-44cc-bad2-1fa6c7d3c5f5",
-      "ip": "180.252.83.182"
+      "total_device": 2,
+      "latest_hwid": "e3be3001-62df-4c8e-95c3-6c7b34bc93c3",
+      "ip": "180.252.88.149"
     },
     {
       "discord_id": "360714179289677827",
