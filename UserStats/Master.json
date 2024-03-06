@@ -2213,6 +2213,15 @@
       "total_device": 1,
       "latest_hwid": "d189742b-698b-4080-b9d3-236ce23c3f9e",
       "ip": "36.74.40.215"
+    },
+    {
+      "discord_id": "1141691925435515053",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Gaskeun_Balapan",
+      "total_device": 1,
+      "latest_hwid": "bc3faf67-0e31-4e68-98b2-9919e1a6398a",
+      "ip": "148.153.120.196"
     }
   ]
 }
