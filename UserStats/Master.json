@@ -2330,6 +2330,15 @@
       "total_device": 1,
       "latest_hwid": "78b0c879-e74b-432a-a4c1-cdc5ee3cc029",
       "ip": "202.80.215.74"
+    },
+    {
+      "discord_id": "672062995316211713",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "LimaPangkatDua",
+      "total_device": 1,
+      "latest_hwid": "b81f5bd0-ebae-4fe1-9f41-d4a37f9bf5ac",
+      "ip": "103.3.221.0"
     }
   ]
 }
