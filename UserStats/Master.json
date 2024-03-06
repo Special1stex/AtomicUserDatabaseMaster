@@ -1964,12 +1964,12 @@
     },
     {
       "discord_id": "265287665371447296",
-      "total_execution": 32,
+      "total_execution": 33,
       "total_account": 1,
       "latest_execution_account": "XxTakarov",
-      "total_device": 1,
-      "latest_hwid": "97aae954-0995-4cfa-b3e8-681a28fab9cc",
-      "ip": "45.196.20.104"
+      "total_device": 2,
+      "latest_hwid": "bb1f70a3-44ff-485b-9099-feb1ec489b6c",
+      "ip": "124.243.152.33"
     },
     {
       "discord_id": "1047049330567172176",
