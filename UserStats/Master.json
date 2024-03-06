@@ -632,12 +632,12 @@
     },
     {
       "discord_id": "333900118614999042",
-      "total_execution": 44,
+      "total_execution": 45,
       "total_account": 1,
       "latest_execution_account": "eca24x",
-      "total_device": 2,
+      "total_device": 3,
       "latest_hwid": "f59ed462-42f6-4ea0-ac8a-0f2f57e7d378",
-      "ip": "112.215.171.88"
+      "ip": "112.215.235.221"
     },
     {
       "discord_id": "431032048963158021",
