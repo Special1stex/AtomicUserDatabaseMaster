@@ -1793,12 +1793,12 @@
     },
     {
       "discord_id": "238626262040444929",
-      "total_execution": 5,
+      "total_execution": 6,
       "total_account": 1,
       "latest_execution_account": "MinyerCuy",
-      "total_device": 1,
-      "latest_hwid": "0706e4eb-7c33-4d3e-8048-6f7b662e5851",
-      "ip": "125.165.107.1"
+      "total_device": 2,
+      "latest_hwid": "df2a52b8-7aaf-4279-8a69-e31b5fd51491",
+      "ip": "125.165.106.101"
     },
     {
       "discord_id": "831926451468238888",
