@@ -2222,6 +2222,15 @@
       "total_device": 1,
       "latest_hwid": "bc3faf67-0e31-4e68-98b2-9919e1a6398a",
       "ip": "148.153.120.196"
+    },
+    {
+      "discord_id": "951400092169015356",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "yumikazasan",
+      "total_device": 1,
+      "latest_hwid": "24974e66-ef10-4230-9276-9449fbee10c9",
+      "ip": "114.5.249.99"
     }
   ]
 }
