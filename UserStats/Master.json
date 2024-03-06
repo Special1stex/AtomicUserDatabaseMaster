@@ -902,12 +902,12 @@
     },
     {
       "discord_id": "1130400935554863104",
-      "total_execution": 7,
+      "total_execution": 8,
       "total_account": 1,
       "latest_execution_account": "noitod32",
-      "total_device": 1,
-      "latest_hwid": "9aae5777-f33e-4df9-90b1-9a63e57b2c2c",
-      "ip": "36.72.39.94"
+      "total_device": 2,
+      "latest_hwid": "56fa4a44-ac37-414a-a8ec-3d23dcfd0365",
+      "ip": "110.136.105.207"
     },
     {
       "discord_id": "769430809387073538",
