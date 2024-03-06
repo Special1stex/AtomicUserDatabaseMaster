@@ -1919,10 +1919,10 @@
     },
     {
       "discord_id": "903629851238490214",
-      "total_execution": 11,
+      "total_execution": 12,
       "total_account": 3,
       "latest_execution_account": "bangici",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "c6fcb6a1-cd7c-48e9-87c3-c02f640670c7",
       "ip": "36.68.41.248"
     },
