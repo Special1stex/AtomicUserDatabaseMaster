@@ -1109,12 +1109,12 @@
     },
     {
       "discord_id": "1163351273819623424",
-      "total_execution": 6,
+      "total_execution": 7,
       "total_account": 1,
       "latest_execution_account": "ujicici6",
-      "total_device": 1,
-      "latest_hwid": "8250b298-81c0-4e40-a46f-a1c4bf90a1d1",
-      "ip": "180.254.175.234"
+      "total_device": 2,
+      "latest_hwid": "200beb56-00a4-4f9a-8de9-93df3dddf6bf",
+      "ip": "180.242.44.124"
     },
     {
       "discord_id": "747808995330228274",
