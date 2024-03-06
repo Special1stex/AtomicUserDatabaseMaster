@@ -1757,12 +1757,12 @@
     },
     {
       "discord_id": "923200972036128778",
-      "total_execution": 9,
+      "total_execution": 10,
       "total_account": 1,
       "latest_execution_account": "Hafezx0",
-      "total_device": 1,
-      "latest_hwid": "bb1f9784-c0ac-47b5-8edc-934577d330fd",
-      "ip": "125.164.251.31"
+      "total_device": 2,
+      "latest_hwid": "71b0ba59-7d2e-4234-9667-bcd7bda67f08",
+      "ip": "36.81.198.56"
     },
     {
       "discord_id": "256375058543542272",
