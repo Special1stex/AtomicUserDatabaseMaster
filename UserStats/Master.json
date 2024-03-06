@@ -1667,10 +1667,10 @@
     },
     {
       "discord_id": "836813539007922197",
-      "total_execution": 15,
+      "total_execution": 16,
       "total_account": 2,
       "latest_execution_account": "user04842",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "63ba106f-bdcc-4212-9835-161963c49841",
       "ip": "140.213.94.205"
     },
