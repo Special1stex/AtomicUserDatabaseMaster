@@ -1820,10 +1820,10 @@
     },
     {
       "discord_id": "805487413035401297",
-      "total_execution": 32,
+      "total_execution": 33,
       "total_account": 8,
       "latest_execution_account": "r0b10xzr",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "01c2df03-69ce-46fc-ba86-74de04fa8adc",
       "ip": "180.247.33.223"
     },
