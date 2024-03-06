@@ -434,12 +434,12 @@
     },
     {
       "discord_id": "535662203748089859",
-      "total_execution": 4,
+      "total_execution": 5,
       "total_account": 1,
       "latest_execution_account": "cgccgxhd",
-      "total_device": 1,
-      "latest_hwid": "49f10d77-0fed-4e84-b9fd-4cdb1a6aedf2",
-      "ip": "27.124.95.36"
+      "total_device": 2,
+      "latest_hwid": "b108460b-994f-42f3-8911-cc271758c139",
+      "ip": "114.142.170.40"
     },
     {
       "discord_id": "740939112042987630",
