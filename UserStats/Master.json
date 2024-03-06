@@ -668,10 +668,10 @@
     },
     {
       "discord_id": "485417524717027338",
-      "total_execution": 39,
+      "total_execution": 40,
       "total_account": 23,
       "latest_execution_account": "memt25",
-      "total_device": 5,
+      "total_device": 1,
       "latest_hwid": "7db77ebf-ee6c-414c-bee4-54c5d124625d",
       "ip": "158.140.163.0"
     },
