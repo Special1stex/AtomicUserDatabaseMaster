@@ -2474,6 +2474,15 @@
       "total_device": 1,
       "latest_hwid": "2493afdd-570a-43c9-b350-b309f6ed5b1e",
       "ip": "139.0.160.22"
+    },
+    {
+      "discord_id": "1071187253717635163",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "JuniorJimmyPlay",
+      "total_device": 1,
+      "latest_hwid": "b4522468-1758-4ae1-8d2d-f013b1b50a28",
+      "ip": "202.58.197.60"
     }
   ]
 }
