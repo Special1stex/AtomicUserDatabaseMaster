@@ -1253,12 +1253,12 @@
     },
     {
       "discord_id": "1041213657541001247",
-      "total_execution": 3,
+      "total_execution": 4,
       "total_account": 1,
       "latest_execution_account": "Nasa_Hasirya",
-      "total_device": 2,
-      "latest_hwid": "f32e1c4e-4978-4606-95aa-9d333881a97a",
-      "ip": "180.244.161.207"
+      "total_device": 3,
+      "latest_hwid": "ebc6b9cc-e224-4023-b0a8-285a52750337",
+      "ip": "180.244.163.110"
     },
     {
       "discord_id": "1132339363569729646",
