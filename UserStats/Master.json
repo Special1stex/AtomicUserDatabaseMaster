@@ -2429,6 +2429,15 @@
       "total_device": 1,
       "latest_hwid": "672088a2-d04f-4552-a668-befc059d0199",
       "ip": "103.47.132.3"
+    },
+    {
+      "discord_id": "923595049319686164",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "hukasfs",
+      "total_device": 1,
+      "latest_hwid": "70556165-1fb0-473c-bc47-4d8804b1dfab",
+      "ip": "212.30.61.152"
     }
   ]
 }
