@@ -1073,12 +1073,12 @@
     },
     {
       "discord_id": "1014912887506087987",
-      "total_execution": 4,
+      "total_execution": 5,
       "total_account": 1,
       "latest_execution_account": "andrewt502",
-      "total_device": 1,
-      "latest_hwid": "d6f1cec6-0f8a-4d87-9cc5-4ab3366eb9f5",
-      "ip": "180.252.163.4"
+      "total_device": 2,
+      "latest_hwid": "46c4266c-6920-472f-aa26-d85c248a0e7c",
+      "ip": "180.252.170.232"
     },
     {
       "discord_id": "1120536221928673291",
