@@ -2564,6 +2564,15 @@
       "total_device": 1,
       "latest_hwid": "e71f446a-6438-4785-9574-e3f492273d38",
       "ip": "103.83.93.149"
+    },
+    {
+      "discord_id": "237248932818845696",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "FryLezY",
+      "total_device": 1,
+      "latest_hwid": "28403973-3574-4905-9774-7836ae354619",
+      "ip": "202.80.213.159"
     }
   ]
 }
