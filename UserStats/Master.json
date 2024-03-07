@@ -1505,12 +1505,12 @@
     },
     {
       "discord_id": "707473968109453343",
-      "total_execution": 46,
+      "total_execution": 47,
       "total_account": 18,
       "latest_execution_account": "Ecatus",
-      "total_device": 1,
-      "latest_hwid": "8bb75da9-f7b3-4ab2-80f4-8ed1e205d85a",
-      "ip": "180.243.11.116"
+      "total_device": 2,
+      "latest_hwid": "6977d3a3-bcb1-4fab-b7d7-5f920f239979",
+      "ip": "104.28.245.124"
     },
     {
       "discord_id": "968005987036446770",
