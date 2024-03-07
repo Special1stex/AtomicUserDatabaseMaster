@@ -2144,10 +2144,10 @@
     },
     {
       "discord_id": "314087358440013835",
-      "total_execution": 4,
+      "total_execution": 5,
       "total_account": 3,
       "latest_execution_account": "poli081",
-      "total_device": 3,
+      "total_device": 1,
       "latest_hwid": "d127e2df-187c-4ac3-bc55-1dc27438f245",
       "ip": "114.141.49.110"
     },
