@@ -1469,12 +1469,12 @@
     },
     {
       "discord_id": "789345282148139009",
-      "total_execution": 12,
+      "total_execution": 13,
       "total_account": 2,
       "latest_execution_account": "edmund2108",
-      "total_device": 1,
-      "latest_hwid": "d00c7cee-e9a1-485a-811a-088e45e49897",
-      "ip": "124.243.152.9"
+      "total_device": 2,
+      "latest_hwid": "0187b414-1b8c-4e52-81bb-8ef00383373f",
+      "ip": "190.92.222.231"
     },
     {
       "discord_id": "738328652747374643",
