@@ -1487,12 +1487,12 @@
     },
     {
       "discord_id": "672440467673317408",
-      "total_execution": 47,
+      "total_execution": 48,
       "total_account": 1,
       "latest_execution_account": "BochilKematian24",
-      "total_device": 1,
-      "latest_hwid": "ba2f7959-add8-4e17-94df-dd1e79fddffc",
-      "ip": "103.162.36.218"
+      "total_device": 2,
+      "latest_hwid": "b884a6d8-8c20-4b83-b4ed-6e1610f7be28",
+      "ip": "103.10.60.242"
     },
     {
       "discord_id": "1129713890717085756",
