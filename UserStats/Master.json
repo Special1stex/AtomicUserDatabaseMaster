@@ -1478,12 +1478,12 @@
     },
     {
       "discord_id": "738328652747374643",
-      "total_execution": 13,
+      "total_execution": 14,
       "total_account": 1,
       "latest_execution_account": "comin_gsoon1",
-      "total_device": 1,
-      "latest_hwid": "9eb3a18e-63a3-4f5b-96c7-6cc83f186ee3",
-      "ip": "112.78.156.162"
+      "total_device": 2,
+      "latest_hwid": "2225710d-3b64-4e74-bccb-6716aa02c444",
+      "ip": "112.78.156.160"
     },
     {
       "discord_id": "672440467673317408",
