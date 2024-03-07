@@ -353,12 +353,12 @@
     },
     {
       "discord_id": "1170018969407721532",
-      "total_execution": 60,
+      "total_execution": 61,
       "total_account": 30,
       "latest_execution_account": "Wannabeitzme",
-      "total_device": 1,
-      "latest_hwid": "f0473697-0a21-4133-a514-0137eb5f1cb5",
-      "ip": "180.252.84.142"
+      "total_device": 2,
+      "latest_hwid": "8cd4e712-10a5-454a-8da7-aa1e0cbe554e",
+      "ip": "180.252.81.39"
     },
     {
       "discord_id": "925941006023655424",
