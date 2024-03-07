@@ -2528,6 +2528,15 @@
       "total_device": 1,
       "latest_hwid": "31eab978-53ad-4725-abef-73006b902f94",
       "ip": "123.253.233.59"
+    },
+    {
+      "discord_id": "983699138191454258",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "coffe_jog",
+      "total_device": 1,
+      "latest_hwid": "81ea6041-5db0-451e-9bff-95d5f1adb36f",
+      "ip": "36.80.224.189"
     }
   ]
 }
