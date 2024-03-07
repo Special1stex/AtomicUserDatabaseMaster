@@ -2396,12 +2396,12 @@
     },
     {
       "discord_id": "1112694114119602220",
-      "total_execution": 2,
+      "total_execution": 3,
       "total_account": 1,
       "latest_execution_account": "AKUGEV",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "e50fb0d5-995d-42e2-981a-30cadc61dedc",
-      "ip": "180.245.77.218"
+      "ip": "125.161.184.114"
     },
     {
       "discord_id": "1045892393687330849",
