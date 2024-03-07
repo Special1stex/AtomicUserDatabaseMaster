@@ -2459,12 +2459,12 @@
     },
     {
       "discord_id": "1201887407365160976",
-      "total_execution": 2,
+      "total_execution": 3,
       "total_account": 1,
       "latest_execution_account": "man_yaw4",
-      "total_device": 1,
-      "latest_hwid": "7bfdf063-c486-4c9a-ae07-c9d7502ec158",
-      "ip": "36.73.190.9"
+      "total_device": 2,
+      "latest_hwid": "c4562ad2-a543-4f77-ac92-4baf2cf12add",
+      "ip": "182.1.73.225"
     },
     {
       "discord_id": "710681787784888394",
