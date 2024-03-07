@@ -2504,9 +2504,9 @@
     },
     {
       "discord_id": "979935288509988925",
-      "total_execution": 4,
-      "total_account": 1,
-      "latest_execution_account": "xtczy5",
+      "total_execution": 5,
+      "total_account": 2,
+      "latest_execution_account": "slow_owe",
       "total_device": 1,
       "latest_hwid": "aeede336-4025-4a8b-8957-4824cdb4a5c7",
       "ip": "125.161.3.156"
