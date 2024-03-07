@@ -1514,12 +1514,12 @@
     },
     {
       "discord_id": "968005987036446770",
-      "total_execution": 7,
+      "total_execution": 8,
       "total_account": 1,
       "latest_execution_account": "Itskevinz7",
-      "total_device": 1,
-      "latest_hwid": "a276217c-c098-48f1-88ad-540c8cdcf1be",
-      "ip": "36.84.168.252"
+      "total_device": 2,
+      "latest_hwid": "d61fb5b9-8673-44e8-87ef-392f5465a999",
+      "ip": "125.166.124.192"
     },
     {
       "discord_id": "546280223960858634",
