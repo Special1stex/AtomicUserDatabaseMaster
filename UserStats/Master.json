@@ -2492,6 +2492,15 @@
       "total_device": 1,
       "latest_hwid": "79c8574a-cbe0-4553-a1b8-f3c4e423bec9",
       "ip": "36.68.54.24"
+    },
+    {
+      "discord_id": "296293768636661771",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Ayonima11112",
+      "total_device": 1,
+      "latest_hwid": "3599c64f-306e-45d7-951d-efae1cbe0fdc",
+      "ip": "111.94.87.233"
     }
   ]
 }
