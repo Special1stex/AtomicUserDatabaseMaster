@@ -269,6 +269,15 @@
       "total_device": 1,
       "latest_hwid": "a1717c96-0053-4dcd-ad1d-03354a71fa00",
       "ip": "110.137.39.191"
+    },
+    {
+      "discord_id": "319257030688899072",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "emulsifyover",
+      "total_device": 1,
+      "latest_hwid": "09dc9790-4b17-4e49-9517-b3dac16f234b",
+      "ip": "98.98.125.230"
     }
   ]
 }
