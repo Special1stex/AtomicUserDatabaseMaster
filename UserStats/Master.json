@@ -35,6 +35,15 @@
       "total_device": 1,
       "latest_hwid": "b31c8374-1fff-4684-aaea-890b478b51da",
       "ip": "140.0.20.203"
+    },
+    {
+      "discord_id": "478094075048755230",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "SynoidRage",
+      "total_device": 1,
+      "latest_hwid": "221eafd2-9398-4a33-8dc2-4ecbde92467c",
+      "ip": "103.84.4.171"
     }
   ]
 }
