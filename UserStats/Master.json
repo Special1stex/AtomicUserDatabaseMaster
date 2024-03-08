@@ -2000,12 +2000,12 @@
     },
     {
       "discord_id": "1133296774967218267",
-      "total_execution": 10,
+      "total_execution": 11,
       "total_account": 1,
       "latest_execution_account": "dzeeRAP",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "c1fc33f9-8631-4b45-80a0-8b0fe0a85dbf",
-      "ip": "125.166.3.30"
+      "ip": "125.166.184.191"
     },
     {
       "discord_id": "728513694077681665",
