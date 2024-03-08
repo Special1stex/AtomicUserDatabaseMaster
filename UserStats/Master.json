@@ -2621,12 +2621,12 @@
     },
     {
       "discord_id": "1139071979723444276",
-      "total_execution": 2,
-      "total_account": 1,
-      "latest_execution_account": "ELITSESM",
-      "total_device": 1,
-      "latest_hwid": "fb840a02-6398-48de-9cf6-034669e861fb",
-      "ip": "182.253.250.151"
+      "total_execution": 3,
+      "total_account": 2,
+      "latest_execution_account": "nottargett",
+      "total_device": 2,
+      "latest_hwid": "0ea522f1-5387-4a5e-81cc-da003bd2160a",
+      "ip": "114.124.188.145"
     }
   ]
 }
