@@ -2618,6 +2618,15 @@
       "total_device": 1,
       "latest_hwid": "3338eaa9-ccec-4be0-a367-f2907f1c5314",
       "ip": "45.196.20.116"
+    },
+    {
+      "discord_id": "1139071979723444276",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "ELITSESM",
+      "total_device": 1,
+      "latest_hwid": "fb840a02-6398-48de-9cf6-034669e861fb",
+      "ip": "182.253.250.151"
     }
   ]
 }
