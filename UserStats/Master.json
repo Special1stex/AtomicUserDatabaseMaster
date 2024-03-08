@@ -854,6 +854,15 @@
       "total_device": 1,
       "latest_hwid": "1818109b-4425-4767-8973-6906d952d206",
       "ip": "114.5.218.47"
+    },
+    {
+      "discord_id": "1022437059786448896",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "probanban46",
+      "total_device": 1,
+      "latest_hwid": "85440eeb-f030-4f99-80b7-71e8e36be2f1",
+      "ip": "36.79.40.113"
     }
   ]
 }
