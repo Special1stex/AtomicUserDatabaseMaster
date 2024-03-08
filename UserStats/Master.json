@@ -233,6 +233,15 @@
       "total_device": 1,
       "latest_hwid": "bcb729f5-9477-4f55-9d05-7588b7ef3b16",
       "ip": "36.69.9.71"
+    },
+    {
+      "discord_id": "561609493830434866",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "princeyogana",
+      "total_device": 1,
+      "latest_hwid": "35fac6a9-c9af-4a1f-a02e-c8e0998b3402",
+      "ip": "180.244.162.171"
     }
   ]
 }
