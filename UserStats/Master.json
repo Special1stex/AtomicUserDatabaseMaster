@@ -863,6 +863,15 @@
       "total_device": 1,
       "latest_hwid": "85440eeb-f030-4f99-80b7-71e8e36be2f1",
       "ip": "36.79.40.113"
+    },
+    {
+      "discord_id": "892959101909352458",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "deshannarsy",
+      "total_device": 1,
+      "latest_hwid": "bbfdbf3c-63de-4c40-83d4-2633d8ac0226",
+      "ip": "111.94.110.197"
     }
   ]
 }
