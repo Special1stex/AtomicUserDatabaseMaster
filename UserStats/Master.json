@@ -791,6 +791,15 @@
       "total_device": 1,
       "latest_hwid": "2ae12299-3553-4c61-a257-bdfcb08cdab5",
       "ip": "103.179.248.194"
+    },
+    {
+      "discord_id": "712912145490116619",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Kivegom",
+      "total_device": 1,
+      "latest_hwid": "5a93a659-2e67-45c3-8100-35f4c8d17901",
+      "ip": "180.242.198.106"
     }
   ]
 }
