@@ -494,6 +494,15 @@
       "total_device": 1,
       "latest_hwid": "2a172a35-3ca5-4e21-945f-1046f1c8fdb6",
       "ip": "180.252.125.143"
+    },
+    {
+      "discord_id": "837232430350860289",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "GEO_PUBG1",
+      "total_device": 1,
+      "latest_hwid": "5faf4bc2-474a-42ae-825f-a5642de65758",
+      "ip": "110.137.72.49"
     }
   ]
 }
