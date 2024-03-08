@@ -665,6 +665,15 @@
       "total_device": 1,
       "latest_hwid": "b01924c3-0c47-4198-b2b7-ce6ab05659b1",
       "ip": "125.167.59.209"
+    },
+    {
+      "discord_id": "852175886950334465",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "RICHYTSUB",
+      "total_device": 1,
+      "latest_hwid": "91aa5ae6-b5b4-49fe-8444-2253353672a8",
+      "ip": "103.166.212.66"
     }
   ]
 }
