@@ -341,6 +341,15 @@
       "total_device": 1,
       "latest_hwid": "59219fd0-1076-4ba6-9ed0-86a260ed9573",
       "ip": "106.8.149.14"
+    },
+    {
+      "discord_id": "1114040884510593075",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "fletxcrrow",
+      "total_device": 1,
+      "latest_hwid": "2d7d8af1-dfbc-4df8-9199-8591d8c07b96",
+      "ip": "36.75.152.100"
     }
   ]
 }
