@@ -62,6 +62,15 @@
       "total_device": 1,
       "latest_hwid": "4aa7ec85-159b-4411-a163-7391df35ecaf",
       "ip": "180.244.167.204"
+    },
+    {
+      "discord_id": "265287665371447296",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "XxTakarov",
+      "total_device": 1,
+      "latest_hwid": "d0a93e68-9827-4518-9f4b-0ce43d37649b",
+      "ip": "140.213.52.23"
     }
   ]
 }
