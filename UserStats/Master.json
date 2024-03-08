@@ -848,12 +848,12 @@
     },
     {
       "discord_id": "1038985427757039776",
-      "total_execution": 9,
+      "total_execution": 10,
       "total_account": 1,
       "latest_execution_account": "Asatrijow",
-      "total_device": 1,
-      "latest_hwid": "a1f4c613-f30d-45e6-966f-c26e41e17f83",
-      "ip": "103.136.58.55"
+      "total_device": 2,
+      "latest_hwid": "cfccaa8f-bfb0-492f-b7f9-cf2c5b617386",
+      "ip": "103.136.58.107"
     },
     {
       "discord_id": "402445933637271552",
