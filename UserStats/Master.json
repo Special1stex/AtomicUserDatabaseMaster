@@ -143,6 +143,15 @@
       "total_device": 1,
       "latest_hwid": "d7508876-717f-4fee-82f3-97e44761b950",
       "ip": "125.165.111.225"
+    },
+    {
+      "discord_id": "840607144042299412",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "FrostWing16",
+      "total_device": 1,
+      "latest_hwid": "a4559abe-76bc-414e-a4d2-e404e23917de",
+      "ip": "149.108.172.60"
     }
   ]
 }
