@@ -575,6 +575,15 @@
       "total_device": 1,
       "latest_hwid": "6dc09089-7703-4d21-ad2d-cfa9dc347146",
       "ip": "36.72.213.84"
+    },
+    {
+      "discord_id": "762015125921464340",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "CRTF_DFRT",
+      "total_device": 1,
+      "latest_hwid": "059eeaf3-ac60-4ace-9704-5bad2de8f97d",
+      "ip": "114.79.19.244"
     }
   ]
 }
