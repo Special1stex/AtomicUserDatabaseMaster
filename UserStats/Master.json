@@ -548,6 +548,15 @@
       "total_device": 1,
       "latest_hwid": "d9bd1715-3309-493a-9718-041e9fdc718a",
       "ip": "103.136.58.95"
+    },
+    {
+      "discord_id": "729663873682112562",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "frost_name",
+      "total_device": 1,
+      "latest_hwid": "f1426f20-fd2b-4a66-a8ba-3d5fc7b40b70",
+      "ip": "125.167.56.63"
     }
   ]
 }
