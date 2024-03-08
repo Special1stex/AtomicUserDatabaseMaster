@@ -773,6 +773,15 @@
       "total_device": 1,
       "latest_hwid": "2225710d-3b64-4e74-bccb-6716aa02c444",
       "ip": "112.78.156.163"
+    },
+    {
+      "discord_id": "866710646657646592",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Rioo_GMG",
+      "total_device": 1,
+      "latest_hwid": "35cc9b1f-a574-47d8-810d-858de047c0ae",
+      "ip": "103.189.207.88"
     }
   ]
 }
