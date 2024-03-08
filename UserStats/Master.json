@@ -179,6 +179,15 @@
       "total_device": 1,
       "latest_hwid": "44c381c6-72c1-4a37-a0bc-3c2a572caba4",
       "ip": "36.84.108.112"
+    },
+    {
+      "discord_id": "708607112862892053",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "KentangRebus1",
+      "total_device": 1,
+      "latest_hwid": "efb82eec-dc7c-4a72-a68e-3b47718f5662",
+      "ip": "182.253.56.184"
     }
   ]
 }
