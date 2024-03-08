@@ -1469,9 +1469,9 @@
     },
     {
       "discord_id": "789345282148139009",
-      "total_execution": 14,
-      "total_account": 2,
-      "latest_execution_account": "edmund2108",
+      "total_execution": 15,
+      "total_account": 3,
+      "latest_execution_account": "limits_garage",
       "total_device": 1,
       "latest_hwid": "0187b414-1b8c-4e52-81bb-8ef00383373f",
       "ip": "190.92.222.231"
