@@ -2216,12 +2216,12 @@
     },
     {
       "discord_id": "1141691925435515053",
-      "total_execution": 23,
+      "total_execution": 24,
       "total_account": 1,
       "latest_execution_account": "Gaskeun_Balapan",
-      "total_device": 1,
-      "latest_hwid": "2eb43688-08ef-4767-b73e-df77398bb596",
-      "ip": "148.153.120.196"
+      "total_device": 2,
+      "latest_hwid": "b44b5e18-fce8-41c6-8713-fab845621ced",
+      "ip": "148.153.172.202"
     },
     {
       "discord_id": "951400092169015356",
