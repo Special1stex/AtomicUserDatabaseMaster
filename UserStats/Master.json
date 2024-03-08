@@ -845,6 +845,15 @@
       "total_device": 1,
       "latest_hwid": "aec8030e-5c65-4f65-acec-0e5d0b8b2214",
       "ip": "125.164.17.243"
+    },
+    {
+      "discord_id": "951400092169015356",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Renelisx",
+      "total_device": 1,
+      "latest_hwid": "1818109b-4425-4767-8973-6906d952d206",
+      "ip": "114.5.218.47"
     }
   ]
 }
