@@ -998,6 +998,15 @@
       "total_device": 1,
       "latest_hwid": "0b5a736d-62c0-4aab-8239-8d451ef79c48",
       "ip": "123.253.233.59"
+    },
+    {
+      "discord_id": "1141691925435515053",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Gaskeun_Balapan",
+      "total_device": 1,
+      "latest_hwid": "8ba0be7a-e7bc-45bc-9347-af8b8fc5f12c",
+      "ip": "148.153.172.202"
     }
   ]
 }
