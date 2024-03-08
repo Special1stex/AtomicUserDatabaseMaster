@@ -1703,10 +1703,10 @@
     },
     {
       "discord_id": "509186103597727745",
-      "total_execution": 41,
+      "total_execution": 42,
       "total_account": 20,
       "latest_execution_account": "gregotigo",
-      "total_device": 6,
+      "total_device": 1,
       "latest_hwid": "aec8030e-5c65-4f65-acec-0e5d0b8b2214",
       "ip": "125.164.23.220"
     },
