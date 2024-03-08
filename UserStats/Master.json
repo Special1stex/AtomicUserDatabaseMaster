@@ -602,6 +602,15 @@
       "total_device": 1,
       "latest_hwid": "bf7c4737-267a-490a-9336-03f767599a0b",
       "ip": "110.138.93.112"
+    },
+    {
+      "discord_id": "859368356725129226",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Nahl_Arrayan",
+      "total_device": 1,
+      "latest_hwid": "cb13f8c5-3405-49ee-a51b-f23de2bcb3d0",
+      "ip": "110.138.90.77"
     }
   ]
 }
