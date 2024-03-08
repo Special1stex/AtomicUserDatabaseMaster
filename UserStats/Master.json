@@ -152,6 +152,15 @@
       "total_device": 1,
       "latest_hwid": "a4559abe-76bc-414e-a4d2-e404e23917de",
       "ip": "149.108.172.60"
+    },
+    {
+      "discord_id": "1139931720729235606",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "BlackMercyVelvet",
+      "total_device": 1,
+      "latest_hwid": "85793760-0f6b-4a99-b568-e7d80b1beea9",
+      "ip": "180.242.71.115"
     }
   ]
 }
