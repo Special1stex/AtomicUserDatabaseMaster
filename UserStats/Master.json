@@ -2609,6 +2609,15 @@
       "total_device": 1,
       "latest_hwid": "2C9247CD-A8DA-4414-BF71-9956D85E0C44",
       "ip": "185.54.231.69"
+    },
+    {
+      "discord_id": "919231514376540182",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Garezna",
+      "total_device": 1,
+      "latest_hwid": "3338eaa9-ccec-4be0-a367-f2907f1c5314",
+      "ip": "45.196.20.116"
     }
   ]
 }
