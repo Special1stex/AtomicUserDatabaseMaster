@@ -917,6 +917,15 @@
       "total_device": 1,
       "latest_hwid": "a300b5e2-85dc-4be7-abf4-871a9665bad0",
       "ip": "36.73.33.189"
+    },
+    {
+      "discord_id": "1015354868271161344",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "cxtecloxd",
+      "total_device": 1,
+      "latest_hwid": "21c83c67-eb95-4d54-88ba-8a53dff357ac",
+      "ip": "110.138.87.232"
     }
   ]
 }
