@@ -161,6 +161,15 @@
       "total_device": 1,
       "latest_hwid": "85793760-0f6b-4a99-b568-e7d80b1beea9",
       "ip": "180.242.71.115"
+    },
+    {
+      "discord_id": "1008951284084264961",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "JynnnWasDie",
+      "total_device": 1,
+      "latest_hwid": "90efc9ee-3bd9-4867-81cd-2446149b7e1e",
+      "ip": "125.164.97.78"
     }
   ]
 }
