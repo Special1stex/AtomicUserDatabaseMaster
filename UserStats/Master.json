@@ -1979,6 +1979,15 @@
       "total_device": 1,
       "latest_hwid": "ba750df6-9b37-481e-912d-38668a9847c3",
       "ip": "180.252.93.124"
+    },
+    {
+      "discord_id": "934028329550503946",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Shira_Runcandel",
+      "total_device": 1,
+      "latest_hwid": "052de9de-8a63-4cf3-8c8a-f37745a219db",
+      "ip": "125.166.8.193"
     }
   ]
 }
