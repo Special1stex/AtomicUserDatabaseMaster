@@ -1043,6 +1043,15 @@
       "total_device": 1,
       "latest_hwid": "b1e4fbe9-2814-40ae-a435-f72b143c922e",
       "ip": "125.164.96.120"
+    },
+    {
+      "discord_id": "487640152538218506",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "zhorag",
+      "total_device": 1,
+      "latest_hwid": "9512ced0-b9de-4f55-8666-c9f1918f1826",
+      "ip": "182.1.84.228"
     }
   ]
 }
