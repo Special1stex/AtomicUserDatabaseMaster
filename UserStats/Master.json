@@ -821,12 +821,12 @@
     },
     {
       "discord_id": "296293768636661771",
-      "total_execution": 7,
+      "total_execution": 8,
       "total_account": 5,
       "latest_execution_account": "KhahrahkSLYvester",
-      "total_device": 1,
-      "latest_hwid": "7df132b7-cb38-4bc4-ada4-7a98e10f5c65",
-      "ip": "148.153.172.203"
+      "total_device": 2,
+      "latest_hwid": "82c55e21-e4ad-4383-8705-7bba94f99708",
+      "ip": "148.153.172.239"
     },
     {
       "discord_id": "1047049330567172176",
