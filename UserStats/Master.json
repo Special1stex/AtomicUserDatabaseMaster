@@ -1322,6 +1322,15 @@
       "total_device": 1,
       "latest_hwid": "672088a2-d04f-4552-a668-befc059d0199",
       "ip": "103.47.132.3"
+    },
+    {
+      "discord_id": "1082967580857356289",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "BM_ARRA123",
+      "total_device": 1,
+      "latest_hwid": "435b9ee1-bfd4-4792-be39-be5a0888b010",
+      "ip": "103.189.201.136"
     }
   ]
 }
