@@ -1223,6 +1223,15 @@
       "total_device": 1,
       "latest_hwid": "31924aec-dbc5-4c94-b60f-b95e7bfcdc96",
       "ip": "180.247.115.213"
+    },
+    {
+      "discord_id": "873249037166473306",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "StepSisOnTheLose",
+      "total_device": 1,
+      "latest_hwid": "3ee91dd1-8195-4533-a9c8-0f47c36c1e5d",
+      "ip": "116.197.133.217"
     }
   ]
 }
