@@ -1880,6 +1880,15 @@
       "total_device": 1,
       "latest_hwid": "095656f1-bd62-4ca7-9bb1-021cf99ec47a",
       "ip": "124.243.152.9"
+    },
+    {
+      "discord_id": "685312501407154185",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "AfganZ08",
+      "total_device": 1,
+      "latest_hwid": "3103338e-8b03-4839-bd73-b6b1b059ed32",
+      "ip": "149.108.109.41"
     }
   ]
 }
