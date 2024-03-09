@@ -1268,6 +1268,15 @@
       "total_device": 1,
       "latest_hwid": "42c8f458-3705-4e31-8e1a-43f3a09680c0",
       "ip": "182.3.196.164"
+    },
+    {
+      "discord_id": "1185976420988620907",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Grascil8",
+      "total_device": 1,
+      "latest_hwid": "1c1be644-88c4-4a30-93fc-db4c2eb89f43",
+      "ip": "119.235.221.185"
     }
   ]
 }
