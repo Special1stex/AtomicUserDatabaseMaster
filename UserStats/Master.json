@@ -1745,6 +1745,15 @@
       "total_device": 1,
       "latest_hwid": "f08fa75f-3fef-46b8-baff-ad748c9e5a6c",
       "ip": "140.213.118.34"
+    },
+    {
+      "discord_id": "710619097980862544",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Nyangkers",
+      "total_device": 1,
+      "latest_hwid": "c5fdd7b4-9fdc-4731-91b7-9b37a14dab22",
+      "ip": "158.140.182.5"
     }
   ]
 }
