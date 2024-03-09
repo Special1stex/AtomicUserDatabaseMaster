@@ -1412,6 +1412,15 @@
       "total_device": 1,
       "latest_hwid": "c6837d2c-bde4-4642-90ad-ed8cac58b7f5",
       "ip": "103.154.109.99"
+    },
+    {
+      "discord_id": "1085024217738784818",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "iRazorXIV",
+      "total_device": 1,
+      "latest_hwid": "1560b7b1-83d5-4ab9-9830-88bcda78a93a",
+      "ip": "149.108.73.143"
     }
   ]
 }
