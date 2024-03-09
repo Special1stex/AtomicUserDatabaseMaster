@@ -1997,6 +1997,15 @@
       "total_device": 1,
       "latest_hwid": "ea2b8359-65ee-4e7b-b41f-40dfebe48e89",
       "ip": "183.78.120.188"
+    },
+    {
+      "discord_id": "852913296952655872",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "ItzZyro123",
+      "total_device": 1,
+      "latest_hwid": "8475adbc-e47f-4487-bac7-c43685d68136",
+      "ip": "114.125.110.81"
     }
   ]
 }
