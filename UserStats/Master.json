@@ -1934,6 +1934,15 @@
       "total_device": 1,
       "latest_hwid": "938ca348-624d-4269-9062-de5b17286147",
       "ip": "103.154.150.195"
+    },
+    {
+      "discord_id": "847713859900538910",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "LUMUTAKIN",
+      "total_device": 1,
+      "latest_hwid": "406095da-db60-4f05-a243-d3c91b435697",
+      "ip": "158.140.182.10"
     }
   ]
 }
