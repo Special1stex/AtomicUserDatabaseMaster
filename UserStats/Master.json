@@ -1748,12 +1748,12 @@
     },
     {
       "discord_id": "710619097980862544",
-      "total_execution": 2,
+      "total_execution": 3,
       "total_account": 1,
       "latest_execution_account": "Nyangkers",
-      "total_device": 2,
+      "total_device": 3,
       "latest_hwid": "c5fdd7b4-9fdc-4731-91b7-9b37a14dab22",
-      "ip": "158.140.182.56"
+      "ip": "158.140.182.19"
     }
   ]
 }
