@@ -1583,6 +1583,15 @@
       "total_device": 1,
       "latest_hwid": "249cbec3-c979-4c0c-9931-5f01d0d03df0",
       "ip": "103.121.110.238"
+    },
+    {
+      "discord_id": "684281240261492755",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "superFires73",
+      "total_device": 1,
+      "latest_hwid": "b1264507-1f89-4f3f-a0bd-560eb625c63c",
+      "ip": "114.142.168.22"
     }
   ]
 }
