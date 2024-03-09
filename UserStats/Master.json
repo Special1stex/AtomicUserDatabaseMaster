@@ -1682,6 +1682,15 @@
       "total_device": 1,
       "latest_hwid": "2d0e6a7e-7498-49e2-82b8-0ea0dba64fc5",
       "ip": "182.2.164.46"
+    },
+    {
+      "discord_id": "1043773286695305246",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "asep_gaminkk",
+      "total_device": 1,
+      "latest_hwid": "5aa65f2f-cb8d-4aaf-8041-560dd01263d2",
+      "ip": "180.252.80.254"
     }
   ]
 }
