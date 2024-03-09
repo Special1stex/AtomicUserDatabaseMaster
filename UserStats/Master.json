@@ -1943,6 +1943,15 @@
       "total_device": 1,
       "latest_hwid": "406095da-db60-4f05-a243-d3c91b435697",
       "ip": "158.140.182.10"
+    },
+    {
+      "discord_id": "237248932818845696",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "dzakypandya",
+      "total_device": 1,
+      "latest_hwid": "28403973-3574-4905-9774-7836ae354619",
+      "ip": "202.80.213.159"
     }
   ]
 }
