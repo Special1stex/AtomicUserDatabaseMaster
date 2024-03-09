@@ -1916,6 +1916,15 @@
       "total_device": 1,
       "latest_hwid": "4ae8474b-d993-43bb-befd-97d8fec3f647",
       "ip": "188.166.223.231"
+    },
+    {
+      "discord_id": "728513694077681665",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "BAYGONPUCINO",
+      "total_device": 1,
+      "latest_hwid": "c18b58d3-ec06-4620-8a07-e5aca7de139c",
+      "ip": "180.252.82.201"
     }
   ]
 }
