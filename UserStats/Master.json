@@ -1637,6 +1637,15 @@
       "total_device": 1,
       "latest_hwid": "f50d4f37-6f19-47dc-9f87-de0bcfbab1b0",
       "ip": "202.80.212.222"
+    },
+    {
+      "discord_id": "1177966855290372190",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "gamebloxfruir",
+      "total_device": 1,
+      "latest_hwid": "75fc782a-2e77-4182-b56c-4301a8deb8bf",
+      "ip": "180.252.123.115"
     }
   ]
 }
