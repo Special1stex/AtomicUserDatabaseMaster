@@ -2276,6 +2276,15 @@
       "total_device": 1,
       "latest_hwid": "2c4d2572-d888-4351-8fab-dea878b9c9d4",
       "ip": "180.252.114.149"
+    },
+    {
+      "discord_id": "649978814859837460",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Faad80",
+      "total_device": 1,
+      "latest_hwid": "7670121c-9bc6-40e6-83f3-a43a8e52b016",
+      "ip": "112.78.156.160"
     }
   ]
 }
