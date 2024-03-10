@@ -1541,12 +1541,12 @@
     },
     {
       "discord_id": "734433434260471819",
-      "total_execution": 1,
+      "total_execution": 2,
       "total_account": 1,
       "latest_execution_account": "BEASMA54",
-      "total_device": 1,
-      "latest_hwid": "5e751ee7-5fcf-484d-bb62-b497411be4ef",
-      "ip": "45.196.20.164"
+      "total_device": 2,
+      "latest_hwid": "6c5227ce-9a50-4a99-b8ca-4f56dda54858",
+      "ip": "148.153.172.215"
     },
     {
       "discord_id": "1194122400405672117",
