@@ -2366,6 +2366,15 @@
       "total_device": 1,
       "latest_hwid": "0627e761-f461-4c22-9f39-2681fbd4ff55",
       "ip": "36.71.140.87"
+    },
+    {
+      "discord_id": "1184155297934233611",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Agilsyam_roblox",
+      "total_device": 1,
+      "latest_hwid": "445388bd-6e3e-4ca8-94f3-25e59fa3aee8",
+      "ip": "180.251.183.16"
     }
   ]
 }
