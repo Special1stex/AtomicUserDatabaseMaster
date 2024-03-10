@@ -2312,6 +2312,15 @@
       "total_device": 1,
       "latest_hwid": "c00130b4-9554-48f3-adc0-a872353c9e94",
       "ip": "114.10.24.206"
+    },
+    {
+      "discord_id": "923595049319686164",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Eochasz",
+      "total_device": 1,
+      "latest_hwid": "70556165-1fb0-473c-bc47-4d8804b1dfab",
+      "ip": "212.30.61.152"
     }
   ]
 }
