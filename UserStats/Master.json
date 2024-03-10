@@ -2438,6 +2438,15 @@
       "total_device": 1,
       "latest_hwid": "2a3e70f5-287b-43aa-91cb-2bad65f6876a",
       "ip": "118.137.166.99"
+    },
+    {
+      "discord_id": "1186700043420446822",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "devandi20",
+      "total_device": 1,
+      "latest_hwid": "e4fb76d7-f229-4ca5-87e4-50f2dfab779e",
+      "ip": "149.108.34.190"
     }
   ]
 }
