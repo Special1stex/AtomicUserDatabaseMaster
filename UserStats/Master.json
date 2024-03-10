@@ -2330,6 +2330,15 @@
       "total_device": 1,
       "latest_hwid": "d24abefa-5c36-4e03-970f-6b1d8194a29b",
       "ip": "180.242.61.128"
+    },
+    {
+      "discord_id": "745992285384343624",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "AmiRenLeaf",
+      "total_device": 1,
+      "latest_hwid": "d857b6f0-6b6b-446b-a1e2-08a78060ab4c",
+      "ip": "36.84.19.144"
     }
   ]
 }
