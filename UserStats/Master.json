@@ -2294,6 +2294,15 @@
       "total_device": 1,
       "latest_hwid": "2901a11e-c35d-41ef-bba0-60f62d2e24d8",
       "ip": "180.242.56.105"
+    },
+    {
+      "discord_id": "1185115229332447232",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Omang_aja",
+      "total_device": 1,
+      "latest_hwid": "a84bc604-13b8-4ede-a483-1d654711181e",
+      "ip": "114.10.10.85"
     }
   ]
 }
