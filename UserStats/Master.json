@@ -2348,6 +2348,15 @@
       "total_device": 1,
       "latest_hwid": "BA1AE437-F151-405E-9723-DEFE0562F2FD",
       "ip": "175.158.36.250"
+    },
+    {
+      "discord_id": "921610313126789170",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Fizzzz_07",
+      "total_device": 1,
+      "latest_hwid": "72a2859b-37fa-47dd-9b22-f93d287c7d7b",
+      "ip": "182.253.54.174"
     }
   ]
 }
