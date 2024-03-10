@@ -2240,6 +2240,15 @@
       "total_device": 1,
       "latest_hwid": "0d327f4d-c9b1-47fd-b7bb-529a75656371",
       "ip": "101.255.150.102"
+    },
+    {
+      "discord_id": "861510060927746078",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "RizuyaGgEmyu",
+      "total_device": 1,
+      "latest_hwid": "daf943c4-8c02-4063-9a72-8a7bbbd392b1",
+      "ip": "114.122.209.132"
     }
   ]
 }
