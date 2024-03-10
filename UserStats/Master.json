@@ -1658,10 +1658,10 @@
     },
     {
       "discord_id": "633921167987834881",
-      "total_execution": 7,
+      "total_execution": 8,
       "total_account": 6,
       "latest_execution_account": "M0ZTSTATION",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "e63d4bcc-9c3e-4cfc-ba15-f076893a3dd9",
       "ip": "124.243.130.84"
     },
