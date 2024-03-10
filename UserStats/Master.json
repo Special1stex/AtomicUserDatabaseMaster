@@ -2339,6 +2339,15 @@
       "total_device": 1,
       "latest_hwid": "d857b6f0-6b6b-446b-a1e2-08a78060ab4c",
       "ip": "36.84.19.144"
+    },
+    {
+      "discord_id": "758846863981412385",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "RealRoblxo",
+      "total_device": 1,
+      "latest_hwid": "BA1AE437-F151-405E-9723-DEFE0562F2FD",
+      "ip": "175.158.36.250"
     }
   ]
 }
