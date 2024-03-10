@@ -533,7 +533,7 @@
     },
     {
       "discord_id": "256375058543542272",
-      "total_execution": 19,
+      "total_execution": 20,
       "total_account": 11,
       "latest_execution_account": "Partai_PDF",
       "total_device": 1,
@@ -2231,6 +2231,15 @@
       "total_device": 1,
       "latest_hwid": "85b73aa3-7297-40e9-a387-13c845a87b50",
       "ip": "180.244.167.4"
+    },
+    {
+      "discord_id": "1010538306792079421",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "andzyyw",
+      "total_device": 1,
+      "latest_hwid": "0d327f4d-c9b1-47fd-b7bb-529a75656371",
+      "ip": "101.255.150.102"
     }
   ]
 }
