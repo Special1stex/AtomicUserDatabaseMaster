@@ -290,7 +290,7 @@
     },
     {
       "discord_id": "821616589475414026",
-      "total_execution": 19,
+      "total_execution": 20,
       "total_account": 6,
       "latest_execution_account": "whoisrax",
       "total_device": 1,
@@ -884,12 +884,12 @@
     },
     {
       "discord_id": "925941006023655424",
-      "total_execution": 23,
+      "total_execution": 24,
       "total_account": 7,
       "latest_execution_account": "liteimpulse0",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "5d2229b3-8b85-413d-a09e-7059ad4064ca",
-      "ip": "180.252.171.137"
+      "ip": "104.28.213.127"
     },
     {
       "discord_id": "1055630146557710456",
