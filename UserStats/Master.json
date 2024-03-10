@@ -2054,12 +2054,12 @@
     },
     {
       "discord_id": "333900118614999042",
-      "total_execution": 2,
+      "total_execution": 3,
       "total_account": 1,
       "latest_execution_account": "eca24x",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "e2655a46-30e4-46a0-8199-54251f5159b1",
-      "ip": "36.74.44.108"
+      "ip": "36.74.44.201"
     },
     {
       "discord_id": "1029346808335450183",
