@@ -2267,6 +2267,15 @@
       "total_device": 1,
       "latest_hwid": "f9fb2e45-023b-4dda-9463-5bc6cdf313cf",
       "ip": "103.119.50.6"
+    },
+    {
+      "discord_id": "726009397708456017",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "hajamin321",
+      "total_device": 1,
+      "latest_hwid": "2c4d2572-d888-4351-8fab-dea878b9c9d4",
+      "ip": "180.252.114.149"
     }
   ]
 }
