@@ -2357,6 +2357,15 @@
       "total_device": 1,
       "latest_hwid": "72a2859b-37fa-47dd-9b22-f93d287c7d7b",
       "ip": "182.253.54.174"
+    },
+    {
+      "discord_id": "971408435352580117",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Rafif_azkasiagian",
+      "total_device": 1,
+      "latest_hwid": "0627e761-f461-4c22-9f39-2681fbd4ff55",
+      "ip": "36.71.140.87"
     }
   ]
 }
