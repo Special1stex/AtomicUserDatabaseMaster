@@ -2132,6 +2132,15 @@
       "total_device": 1,
       "latest_hwid": "90770f92-3acd-4442-9bc2-9edb65f52329",
       "ip": "139.192.14.88"
+    },
+    {
+      "discord_id": "1077975442293792788",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "dildaro6",
+      "total_device": 1,
+      "latest_hwid": "2c0d2ad5-bcc0-4b6f-808d-31686c4c8a8a",
+      "ip": "111.94.98.238"
     }
   ]
 }
