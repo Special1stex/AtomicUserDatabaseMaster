@@ -2078,6 +2078,15 @@
       "total_device": 1,
       "latest_hwid": "71932ab5-c9e5-4a76-8f20-0260253a2442",
       "ip": "202.80.214.122"
+    },
+    {
+      "discord_id": "480949627680718858",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "LoneRBXL",
+      "total_device": 1,
+      "latest_hwid": "a6ab2bae-8122-46f8-bff1-6997547442b2",
+      "ip": "36.78.200.146"
     }
   ]
 }
