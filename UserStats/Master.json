@@ -272,12 +272,12 @@
     },
     {
       "discord_id": "319257030688899072",
-      "total_execution": 13,
-      "total_account": 12,
-      "latest_execution_account": "featurestump",
-      "total_device": 1,
-      "latest_hwid": "949c9047-451d-4235-8247-fa0eba0fc063",
-      "ip": "98.98.125.230"
+      "total_execution": 14,
+      "total_account": 13,
+      "latest_execution_account": "involvementer",
+      "total_device": 2,
+      "latest_hwid": "7303d806-cf1a-4090-994e-4b6262188eea",
+      "ip": "98.98.125.12"
     },
     {
       "discord_id": "1201887407365160976",
@@ -1361,7 +1361,7 @@
     },
     {
       "discord_id": "672440467673317408",
-      "total_execution": 11,
+      "total_execution": 12,
       "total_account": 1,
       "latest_execution_account": "BochilKematian24",
       "total_device": 1,
