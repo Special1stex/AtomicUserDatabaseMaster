@@ -2285,6 +2285,15 @@
       "total_device": 1,
       "latest_hwid": "7670121c-9bc6-40e6-83f3-a43a8e52b016",
       "ip": "112.78.156.160"
+    },
+    {
+      "discord_id": "881529691436118077",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "PLANETSTAR2828",
+      "total_device": 1,
+      "latest_hwid": "2901a11e-c35d-41ef-bba0-60f62d2e24d8",
+      "ip": "180.242.56.105"
     }
   ]
 }
