@@ -2537,6 +2537,15 @@
       "total_device": 1,
       "latest_hwid": "67f8340d-3984-469e-bbeb-2346cc90a0ba",
       "ip": "61.94.94.8"
+    },
+    {
+      "discord_id": "805487413035401297",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "fingerplay110",
+      "total_device": 1,
+      "latest_hwid": "d5b2dc81-fab2-48d8-8254-b87e0fefd784",
+      "ip": "182.2.4.4"
     }
   ]
 }
