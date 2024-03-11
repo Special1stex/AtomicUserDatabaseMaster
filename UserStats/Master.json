@@ -1487,12 +1487,12 @@
     },
     {
       "discord_id": "789345282148139009",
-      "total_execution": 2,
+      "total_execution": 3,
       "total_account": 1,
       "latest_execution_account": "limits_garage",
-      "total_device": 1,
-      "latest_hwid": "0187b414-1b8c-4e52-81bb-8ef00383373f",
-      "ip": "190.92.222.231"
+      "total_device": 2,
+      "latest_hwid": "f8b1d9ca-7a0c-4b81-a06b-3a0189b05172",
+      "ip": "103.143.241.97"
     },
     {
       "discord_id": "1157217403147669574",
