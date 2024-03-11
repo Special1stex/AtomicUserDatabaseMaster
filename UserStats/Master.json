@@ -74,12 +74,12 @@
     },
     {
       "discord_id": "285812894518607884",
-      "total_execution": 44,
-      "total_account": 43,
-      "latest_execution_account": "NCS_Solar",
-      "total_device": 1,
-      "latest_hwid": "dd31c227-b5d8-4cd3-9d1e-24b97f8701a5",
-      "ip": "185.54.231.23"
+      "total_execution": 45,
+      "total_account": 44,
+      "latest_execution_account": "RPM_Meter",
+      "total_device": 2,
+      "latest_hwid": "7eee477a-409b-4972-8656-da69a1c919f5",
+      "ip": "36.73.35.24"
     },
     {
       "discord_id": "758465474534572083",
