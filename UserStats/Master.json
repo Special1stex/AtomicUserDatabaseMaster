@@ -1721,12 +1721,12 @@
     },
     {
       "discord_id": "1038985427757039776",
-      "total_execution": 6,
+      "total_execution": 7,
       "total_account": 4,
       "latest_execution_account": "Z0urCh1ps",
-      "total_device": 4,
-      "latest_hwid": "cfccaa8f-bfb0-492f-b7f9-cf2c5b617386",
-      "ip": "103.136.58.107"
+      "total_device": 5,
+      "latest_hwid": "16646ed2-d44d-4fca-a918-16903bff14fe",
+      "ip": "103.136.58.55"
     },
     {
       "discord_id": "934285113276125214",
