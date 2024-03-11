@@ -2171,12 +2171,12 @@
     },
     {
       "discord_id": "580340707995156490",
-      "total_execution": 32,
+      "total_execution": 33,
       "total_account": 1,
       "latest_execution_account": "TonnyInternational",
-      "total_device": 1,
-      "latest_hwid": "0b48c74d-9975-45a0-8ca7-df27c11be3a2",
-      "ip": "114.4.219.78"
+      "total_device": 2,
+      "latest_hwid": "41f849ec-7492-4e8b-a275-a04c46f9c5c4",
+      "ip": "125.164.12.14"
     },
     {
       "discord_id": "817972986169786398",
