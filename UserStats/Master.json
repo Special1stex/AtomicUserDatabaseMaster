@@ -2483,6 +2483,15 @@
       "total_device": 1,
       "latest_hwid": "e136065c-b141-41d2-9c78-1ba93deeaa8e",
       "ip": "149.113.246.64"
+    },
+    {
+      "discord_id": "931797144925536256",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "2GDxNgebull",
+      "total_device": 1,
+      "latest_hwid": "eafdcc1b-9b18-41b5-a909-898dcb9016a2",
+      "ip": "140.213.232.95"
     }
   ]
 }
