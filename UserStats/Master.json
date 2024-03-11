@@ -2627,6 +2627,15 @@
       "total_device": 1,
       "latest_hwid": "FEFC7E39-F6F0-48DE-A5C2-CD35FAB329F9",
       "ip": "36.68.10.113"
+    },
+    {
+      "discord_id": "849496393444884480",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "crkjleigtieo",
+      "total_device": 1,
+      "latest_hwid": "e772eadb-d1ea-4d10-9570-54a901718fe7",
+      "ip": "139.193.32.246"
     }
   ]
 }
