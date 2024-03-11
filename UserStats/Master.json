@@ -2528,6 +2528,15 @@
       "total_device": 1,
       "latest_hwid": "1c5c003b-5f4f-46b4-940c-044be9a50e68",
       "ip": "110.137.195.112"
+    },
+    {
+      "discord_id": "1091038364213456936",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "sprunxgta01",
+      "total_device": 1,
+      "latest_hwid": "67f8340d-3984-469e-bbeb-2346cc90a0ba",
+      "ip": "61.94.94.8"
     }
   ]
 }
