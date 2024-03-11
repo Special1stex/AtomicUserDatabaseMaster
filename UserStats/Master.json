@@ -1811,10 +1811,10 @@
     },
     {
       "discord_id": "1134018217430491147",
-      "total_execution": 13,
+      "total_execution": 14,
       "total_account": 2,
       "latest_execution_account": "cgm1494",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "c66d293c-346e-4010-ba19-2d9fc5c021d2",
       "ip": "36.71.81.142"
     },
