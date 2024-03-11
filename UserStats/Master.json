@@ -1415,12 +1415,12 @@
     },
     {
       "discord_id": "1085024217738784818",
-      "total_execution": 5,
+      "total_execution": 6,
       "total_account": 1,
       "latest_execution_account": "iRazorXIV",
-      "total_device": 1,
-      "latest_hwid": "d234c4bc-854b-49ee-88f1-9b9037ef043a",
-      "ip": "149.108.73.143"
+      "total_device": 2,
+      "latest_hwid": "01663732-399d-4335-ac19-8da1fdeadbac",
+      "ip": "149.108.75.100"
     },
     {
       "discord_id": "838376273192550400",
