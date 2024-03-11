@@ -929,12 +929,12 @@
     },
     {
       "discord_id": "826386415012544513",
-      "total_execution": 34,
+      "total_execution": 35,
       "total_account": 23,
       "latest_execution_account": "FABORIF",
-      "total_device": 2,
+      "total_device": 3,
       "latest_hwid": "801fc1c6-bb13-40c8-b6f6-dd6ade1d17d9",
-      "ip": "103.100.175.253"
+      "ip": "103.100.175.241"
     },
     {
       "discord_id": "756739514436681749",
