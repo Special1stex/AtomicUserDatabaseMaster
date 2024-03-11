@@ -1406,10 +1406,10 @@
     },
     {
       "discord_id": "1211931238705799208",
-      "total_execution": 52,
+      "total_execution": 53,
       "total_account": 25,
       "latest_execution_account": "rimba_star",
-      "total_device": 3,
+      "total_device": 1,
       "latest_hwid": "cf188f11-2879-4171-8d1d-ea3d44e7200e",
       "ip": "103.154.109.99"
     },
