@@ -2555,6 +2555,15 @@
       "total_device": 1,
       "latest_hwid": "61cddee3-93ac-47cf-b937-fc562db02d51",
       "ip": "36.75.74.58"
+    },
+    {
+      "discord_id": "431032048963158021",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Tawan_Jxtt",
+      "total_device": 1,
+      "latest_hwid": "55d60d24-0825-46c6-a883-045820ec243c",
+      "ip": "49.228.176.71"
     }
   ]
 }
