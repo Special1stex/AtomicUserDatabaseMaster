@@ -1838,12 +1838,12 @@
     },
     {
       "discord_id": "804598200727633930",
-      "total_execution": 1,
+      "total_execution": 2,
       "total_account": 1,
       "latest_execution_account": "BTRDeshan",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "e16d8b00-73c1-44b5-81b2-f5b73e862745",
-      "ip": "103.121.108.111"
+      "ip": "103.121.132.6"
     },
     {
       "discord_id": "1163351273819623424",
