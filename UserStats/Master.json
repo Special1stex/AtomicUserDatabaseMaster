@@ -272,12 +272,12 @@
     },
     {
       "discord_id": "319257030688899072",
-      "total_execution": 26,
+      "total_execution": 27,
       "total_account": 23,
       "latest_execution_account": "ethicalweird",
-      "total_device": 1,
-      "latest_hwid": "1d69fbc3-ba6d-4929-a5e6-8132af6e77f8",
-      "ip": "103.143.241.126"
+      "total_device": 2,
+      "latest_hwid": "ae1cdf95-ae18-48a5-9d1c-d3f6600336c2",
+      "ip": "148.153.172.192"
     },
     {
       "discord_id": "1201887407365160976",
