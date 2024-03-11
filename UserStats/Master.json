@@ -1559,12 +1559,12 @@
     },
     {
       "discord_id": "723100877350764586",
-      "total_execution": 9,
+      "total_execution": 10,
       "total_account": 1,
       "latest_execution_account": "D41VAA",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "da8d0eea-ecaf-4789-ba8c-7f4f9cc25097",
-      "ip": "180.243.15.90"
+      "ip": "180.243.10.19"
     },
     {
       "discord_id": "1155410327681384528",
