@@ -1685,12 +1685,12 @@
     },
     {
       "discord_id": "1043773286695305246",
-      "total_execution": 2,
+      "total_execution": 3,
       "total_account": 1,
       "latest_execution_account": "asep_gaminkk",
-      "total_device": 1,
-      "latest_hwid": "5aa65f2f-cb8d-4aaf-8041-560dd01263d2",
-      "ip": "180.252.80.254"
+      "total_device": 2,
+      "latest_hwid": "3e0ec05c-311c-4c86-9e0e-23c7ee5b9681",
+      "ip": "180.252.90.23"
     },
     {
       "discord_id": "1025948056803365006",
