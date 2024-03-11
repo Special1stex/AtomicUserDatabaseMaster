@@ -1199,10 +1199,10 @@
     },
     {
       "discord_id": "983699138191454258",
-      "total_execution": 13,
+      "total_execution": 14,
       "total_account": 1,
       "latest_execution_account": "coffe_jog",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "4642594d-9443-4dcd-bd01-534df162193e",
       "ip": "180.254.56.64"
     },
