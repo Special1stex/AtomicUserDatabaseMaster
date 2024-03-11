@@ -1829,12 +1829,12 @@
     },
     {
       "discord_id": "1059080307464224808",
-      "total_execution": 16,
+      "total_execution": 17,
       "total_account": 5,
       "latest_execution_account": "ote_ote221",
-      "total_device": 3,
-      "latest_hwid": "e8152611-e93c-493a-87ee-2db9139eea1a",
-      "ip": "110.137.187.4"
+      "total_device": 4,
+      "latest_hwid": "3c6f235e-a697-4179-aa20-56cd85d46af5",
+      "ip": "114.10.99.199"
     },
     {
       "discord_id": "804598200727633930",
