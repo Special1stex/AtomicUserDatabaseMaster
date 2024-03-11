@@ -2243,12 +2243,12 @@
     },
     {
       "discord_id": "861510060927746078",
-      "total_execution": 6,
+      "total_execution": 7,
       "total_account": 1,
       "latest_execution_account": "RizuyaGgEmyu",
-      "total_device": 1,
-      "latest_hwid": "daf943c4-8c02-4063-9a72-8a7bbbd392b1",
-      "ip": "114.122.209.20"
+      "total_device": 2,
+      "latest_hwid": "23a22661-1075-4a87-bb91-fce7d88155cf",
+      "ip": "114.122.208.7"
     },
     {
       "discord_id": "979693805919932487",
