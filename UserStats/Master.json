@@ -515,12 +515,12 @@
     },
     {
       "discord_id": "300615749574197248",
-      "total_execution": 13,
+      "total_execution": 14,
       "total_account": 1,
       "latest_execution_account": "lav1ssh",
-      "total_device": 1,
-      "latest_hwid": "98be2f43-8112-429d-8e43-052dd3074ded",
-      "ip": "180.244.163.144"
+      "total_device": 2,
+      "latest_hwid": "067f08dd-0a26-4e47-ae88-dfee5b393e59",
+      "ip": "180.244.160.87"
     },
     {
       "discord_id": "705047806775132200",
