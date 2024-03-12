@@ -2261,12 +2261,12 @@
     },
     {
       "discord_id": "1190227724460105808",
-      "total_execution": 4,
+      "total_execution": 5,
       "total_account": 1,
       "latest_execution_account": "CarTozer",
-      "total_device": 4,
-      "latest_hwid": "f9fb2e45-023b-4dda-9463-5bc6cdf313cf",
-      "ip": "103.119.50.104"
+      "total_device": 5,
+      "latest_hwid": "dc7167b2-01b3-4fe6-9eb3-2bb17f015336",
+      "ip": "103.119.50.6"
     },
     {
       "discord_id": "726009397708456017",
