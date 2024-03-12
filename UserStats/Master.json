@@ -2639,10 +2639,10 @@
     },
     {
       "discord_id": "545534654363598849",
-      "total_execution": 9,
+      "total_execution": 10,
       "total_account": 2,
       "latest_execution_account": "IntanPno",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "7220a380-4b1d-47eb-88d9-782cf3f01a24",
       "ip": "180.244.54.223"
     },
