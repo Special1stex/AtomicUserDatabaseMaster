@@ -713,10 +713,10 @@
     },
     {
       "discord_id": "1029427321922392125",
-      "total_execution": 118,
+      "total_execution": 119,
       "total_account": 102,
       "latest_execution_account": "KelpoGile",
-      "total_device": 13,
+      "total_device": 1,
       "latest_hwid": "ba8e6772-ef55-43f5-b241-8a3f9c87c50f",
       "ip": "111.95.84.16"
     },
@@ -1604,7 +1604,7 @@
     },
     {
       "discord_id": "681766617138593801",
-      "total_execution": 12,
+      "total_execution": 13,
       "total_account": 2,
       "latest_execution_account": "hackermansnew",
       "total_device": 1,
