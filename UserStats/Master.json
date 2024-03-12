@@ -2504,12 +2504,12 @@
     },
     {
       "discord_id": "1090530490303397910",
-      "total_execution": 12,
+      "total_execution": 13,
       "total_account": 1,
       "latest_execution_account": "theoneandonly_172",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "8b56f5aa-ddb6-4b52-841a-5a27442b3c50",
-      "ip": "180.242.177.190"
+      "ip": "114.10.18.151"
     },
     {
       "discord_id": "541035608756322314",
