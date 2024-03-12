@@ -2603,10 +2603,10 @@
     },
     {
       "discord_id": "392261481280045058",
-      "total_execution": 6,
+      "total_execution": 7,
       "total_account": 2,
       "latest_execution_account": "rga8133",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "0f380db7-a346-443d-8a1a-ae62587654b9",
       "ip": "103.162.237.20"
     },
