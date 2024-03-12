@@ -1586,12 +1586,12 @@
     },
     {
       "discord_id": "684281240261492755",
-      "total_execution": 11,
+      "total_execution": 12,
       "total_account": 2,
       "latest_execution_account": "FAR0601",
-      "total_device": 2,
-      "latest_hwid": "b1264507-1f89-4f3f-a0bd-560eb625c63c",
-      "ip": "114.142.168.11"
+      "total_device": 3,
+      "latest_hwid": "420e0c06-aeae-4dab-9be5-d62572349648",
+      "ip": "114.142.169.25"
     },
     {
       "discord_id": "1083785675725340743",
