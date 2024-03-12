@@ -1721,11 +1721,11 @@
     },
     {
       "discord_id": "1038985427757039776",
-      "total_execution": 10,
+      "total_execution": 11,
       "total_account": 4,
       "latest_execution_account": "Z0urCh1ps",
-      "total_device": 3,
-      "latest_hwid": "16646ed2-d44d-4fca-a918-16903bff14fe",
+      "total_device": 1,
+      "latest_hwid": "bce5a088-a028-4916-b358-ec1857361a81",
       "ip": "182.253.250.145"
     },
     {
