@@ -821,10 +821,10 @@
     },
     {
       "discord_id": "296293768636661771",
-      "total_execution": 38,
+      "total_execution": 39,
       "total_account": 23,
       "latest_execution_account": "peceands",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "36ee0441-3970-4e9c-8449-67953d85c464",
       "ip": "98.98.125.224"
     },
@@ -1802,7 +1802,7 @@
     },
     {
       "discord_id": "948918685991600129",
-      "total_execution": 13,
+      "total_execution": 14,
       "total_account": 4,
       "latest_execution_account": "Abzaapp",
       "total_device": 1,
