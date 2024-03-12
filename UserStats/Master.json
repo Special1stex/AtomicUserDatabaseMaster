@@ -2690,6 +2690,15 @@
       "total_device": 1,
       "latest_hwid": "211f92f3-3196-476e-a945-1571dd183786",
       "ip": "111.94.110.171"
+    },
+    {
+      "discord_id": "1006345336186470490",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Aorus_99",
+      "total_device": 1,
+      "latest_hwid": "c51f30da-868e-460e-9f01-db9fc6d8fbbd",
+      "ip": "125.164.86.217"
     }
   ]
 }
