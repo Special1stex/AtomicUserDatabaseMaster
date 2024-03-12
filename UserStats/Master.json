@@ -74,11 +74,11 @@
     },
     {
       "discord_id": "285812894518607884",
-      "total_execution": 45,
-      "total_account": 44,
-      "latest_execution_account": "RPM_Meter",
-      "total_device": 2,
-      "latest_hwid": "7eee477a-409b-4972-8656-da69a1c919f5",
+      "total_execution": 46,
+      "total_account": 45,
+      "latest_execution_account": "RPM_Balap",
+      "total_device": 1,
+      "latest_hwid": "d4367474-45ef-45da-a17b-3bfb062509a3",
       "ip": "36.73.35.24"
     },
     {
