@@ -1802,10 +1802,10 @@
     },
     {
       "discord_id": "948918685991600129",
-      "total_execution": 9,
+      "total_execution": 10,
       "total_account": 4,
       "latest_execution_account": "Abzaapp",
-      "total_device": 3,
+      "total_device": 1,
       "latest_hwid": "ba3dc375-9b00-42a1-91aa-74a8fca9da31",
       "ip": "180.252.117.183"
     },
