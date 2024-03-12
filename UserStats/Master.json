@@ -2603,12 +2603,12 @@
     },
     {
       "discord_id": "392261481280045058",
-      "total_execution": 3,
+      "total_execution": 4,
       "total_account": 1,
       "latest_execution_account": "pancavoc17",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "0f380db7-a346-443d-8a1a-ae62587654b9",
-      "ip": "103.162.237.6"
+      "ip": "103.162.237.154"
     },
     {
       "discord_id": "976488713938927666",
