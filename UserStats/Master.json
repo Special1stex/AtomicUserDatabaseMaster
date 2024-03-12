@@ -443,10 +443,10 @@
     },
     {
       "discord_id": "1053651094015856640",
-      "total_execution": 87,
+      "total_execution": 88,
       "total_account": 71,
       "latest_execution_account": "IdJarz",
-      "total_device": 5,
+      "total_device": 1,
       "latest_hwid": "fa645584-2839-4ae3-bc17-931dcd63ad82",
       "ip": "180.242.130.217"
     },
@@ -2369,7 +2369,7 @@
     },
     {
       "discord_id": "1184155297934233611",
-      "total_execution": 18,
+      "total_execution": 19,
       "total_account": 4,
       "latest_execution_account": "R4ydzn",
       "total_device": 1,
