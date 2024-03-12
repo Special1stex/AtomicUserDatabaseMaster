@@ -2708,6 +2708,15 @@
       "total_device": 1,
       "latest_hwid": "0d32400e-bf6e-4278-a7d9-1c915bf20c80",
       "ip": "125.164.96.126"
+    },
+    {
+      "discord_id": "900833734255861791",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "GunR0ck",
+      "total_device": 1,
+      "latest_hwid": "2262988c-7761-4653-b67d-be375b91085b",
+      "ip": "103.4.77.135"
     }
   ]
 }
