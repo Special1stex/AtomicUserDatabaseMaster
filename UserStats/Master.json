@@ -614,12 +614,12 @@
     },
     {
       "discord_id": "735800100353343528",
-      "total_execution": 40,
+      "total_execution": 41,
       "total_account": 11,
       "latest_execution_account": "RBX_OneDirection",
-      "total_device": 1,
-      "latest_hwid": "7b23a12a-7dd5-4116-89ad-d07d4e2b1705",
-      "ip": "182.3.51.125"
+      "total_device": 2,
+      "latest_hwid": "f13493cf-5d87-4789-a1c7-fe6148d5b67d",
+      "ip": "118.136.110.94"
     },
     {
       "discord_id": "468338732563431424",
