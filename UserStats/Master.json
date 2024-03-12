@@ -1451,12 +1451,12 @@
     },
     {
       "discord_id": "760187161114443866",
-      "total_execution": 6,
+      "total_execution": 7,
       "total_account": 1,
       "latest_execution_account": "RennTHY7",
-      "total_device": 1,
-      "latest_hwid": "4ac33d28-0fbe-4fc5-abd4-8a56653de16d",
-      "ip": "110.138.255.107"
+      "total_device": 2,
+      "latest_hwid": "cd004fef-e20f-4357-8608-b23bcf66b0be",
+      "ip": "36.68.223.246"
     },
     {
       "discord_id": "274533539205087233",
