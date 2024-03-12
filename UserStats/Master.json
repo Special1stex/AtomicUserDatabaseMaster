@@ -2654,6 +2654,15 @@
       "total_device": 1,
       "latest_hwid": "f2df8514-e4fd-4508-a6fd-b481820955e5",
       "ip": "180.248.26.48"
+    },
+    {
+      "discord_id": "903629851238490214",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "bangici",
+      "total_device": 1,
+      "latest_hwid": "bbf5bf20-abe7-4b3a-a248-a4e7a823e59f",
+      "ip": "180.241.158.235"
     }
   ]
 }
