@@ -2405,12 +2405,12 @@
     },
     {
       "discord_id": "728168658228084796",
-      "total_execution": 3,
+      "total_execution": 4,
       "total_account": 1,
       "latest_execution_account": "vcresmen",
-      "total_device": 1,
-      "latest_hwid": "e18aa493-4024-4964-a2e5-f91ab1b8eb19",
-      "ip": "180.254.65.98"
+      "total_device": 2,
+      "latest_hwid": "ce3c41c6-8432-4125-9ba9-d3c0fd2ea6f5",
+      "ip": "180.254.69.79"
     },
     {
       "discord_id": "842213734444564543",
