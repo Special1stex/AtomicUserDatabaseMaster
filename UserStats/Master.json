@@ -2735,6 +2735,15 @@
       "total_device": 2,
       "latest_hwid": "0db52c5f-5a16-42b2-aec4-d72c6cfc730e",
       "ip": "124.40.251.76"
+    },
+    {
+      "discord_id": "428170919400177674",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "CptKevin199",
+      "total_device": 1,
+      "latest_hwid": "05ba1c1e-a39e-4f6e-844b-4783c4e13480",
+      "ip": "140.213.1.44"
     }
   ]
 }
