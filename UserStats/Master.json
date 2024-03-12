@@ -74,12 +74,12 @@
     },
     {
       "discord_id": "285812894518607884",
-      "total_execution": 59,
+      "total_execution": 60,
       "total_account": 58,
       "latest_execution_account": "NCS_Peramax",
-      "total_device": 2,
+      "total_device": 3,
       "latest_hwid": "5d7ec358-029d-4eb8-93df-e1bbbbf3680f",
-      "ip": "185.54.231.71"
+      "ip": "185.54.231.61"
     },
     {
       "discord_id": "758465474534572083",
