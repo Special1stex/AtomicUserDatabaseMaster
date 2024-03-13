@@ -1406,9 +1406,9 @@
     },
     {
       "discord_id": "1211931238705799208",
-      "total_execution": 114,
-      "total_account": 65,
-      "latest_execution_account": "tokyo_SPT",
+      "total_execution": 115,
+      "total_account": 66,
+      "latest_execution_account": "bbstore06",
       "total_device": 1,
       "latest_hwid": "8838ead8-8667-427b-92db-8465be2bb029",
       "ip": "110.137.192.114"
