@@ -1586,10 +1586,10 @@
     },
     {
       "discord_id": "684281240261492755",
-      "total_execution": 15,
+      "total_execution": 16,
       "total_account": 4,
       "latest_execution_account": "FAR0601",
-      "total_device": 6,
+      "total_device": 1,
       "latest_hwid": "956186bd-24b5-4557-81da-93c57d36f727",
       "ip": "149.108.16.210"
     },
