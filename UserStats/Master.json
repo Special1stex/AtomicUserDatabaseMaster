@@ -2765,12 +2765,12 @@
     },
     {
       "discord_id": "836813539007922197",
-      "total_execution": 1,
+      "total_execution": 2,
       "total_account": 1,
       "latest_execution_account": "Ranmdonmyaya",
-      "total_device": 1,
-      "latest_hwid": "96c99aed-7060-4079-b85b-a8f85ffa2533",
-      "ip": "140.213.94.166"
+      "total_device": 2,
+      "latest_hwid": "d8df8091-1f94-4e4d-9987-3b8efc657c1b",
+      "ip": "103.3.220.79"
     },
     {
       "discord_id": "731374604177768478",
