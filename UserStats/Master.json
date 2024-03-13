@@ -2879,6 +2879,15 @@
       "total_device": 1,
       "latest_hwid": "bf51bafd-8102-41c5-892f-059369a3a74c",
       "ip": "27.124.95.139"
+    },
+    {
+      "discord_id": "745593738524360805",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "UPINATOKDzikri",
+      "total_device": 1,
+      "latest_hwid": "1df0a65f-76d6-4471-8968-01d94a98ac39",
+      "ip": "103.83.93.149"
     }
   ]
 }
