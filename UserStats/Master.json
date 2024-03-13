@@ -2684,12 +2684,12 @@
     },
     {
       "discord_id": "294968807804370944",
-      "total_execution": 5,
+      "total_execution": 6,
       "total_account": 1,
       "latest_execution_account": "shodiqajha",
-      "total_device": 1,
-      "latest_hwid": "211f92f3-3196-476e-a945-1571dd183786",
-      "ip": "111.94.110.171"
+      "total_device": 2,
+      "latest_hwid": "60aa31ed-264d-4714-a3e0-c10deb9911f2",
+      "ip": "111.94.110.147"
     },
     {
       "discord_id": "1006345336186470490",
