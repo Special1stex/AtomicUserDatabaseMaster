@@ -1496,10 +1496,10 @@
     },
     {
       "discord_id": "1157217403147669574",
-      "total_execution": 32,
+      "total_execution": 33,
       "total_account": 1,
       "latest_execution_account": "dosijero",
-      "total_device": 5,
+      "total_device": 1,
       "latest_hwid": "a4ea06d0-4edd-4615-9ae0-1cd56f6756c2",
       "ip": "182.1.233.81"
     },
