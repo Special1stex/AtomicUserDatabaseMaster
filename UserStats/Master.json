@@ -2771,6 +2771,15 @@
       "total_device": 1,
       "latest_hwid": "96c99aed-7060-4079-b85b-a8f85ffa2533",
       "ip": "140.213.94.166"
+    },
+    {
+      "discord_id": "731374604177768478",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "tytanputra",
+      "total_device": 1,
+      "latest_hwid": "d170b741-8ad3-405c-b0c2-32065ecea604",
+      "ip": "125.167.50.181"
     }
   ]
 }
