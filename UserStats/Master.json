@@ -1496,12 +1496,12 @@
     },
     {
       "discord_id": "1157217403147669574",
-      "total_execution": 33,
+      "total_execution": 34,
       "total_account": 1,
       "latest_execution_account": "dosijero",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "a4ea06d0-4edd-4615-9ae0-1cd56f6756c2",
-      "ip": "182.1.233.81"
+      "ip": "114.125.248.235"
     },
     {
       "discord_id": "852759274991779871",
@@ -2369,10 +2369,10 @@
     },
     {
       "discord_id": "1184155297934233611",
-      "total_execution": 28,
+      "total_execution": 29,
       "total_account": 5,
       "latest_execution_account": "Agilsyam_roblox",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "3f494ea1-fd38-4e60-8b0c-8dde9a5775c5",
       "ip": "180.249.237.25"
     },
