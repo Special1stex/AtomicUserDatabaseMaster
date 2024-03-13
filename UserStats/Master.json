@@ -488,12 +488,12 @@
     },
     {
       "discord_id": "964495009401430088",
-      "total_execution": 2,
+      "total_execution": 3,
       "total_account": 1,
       "latest_execution_account": "Rachmat_Enzio",
-      "total_device": 2,
-      "latest_hwid": "2a172a35-3ca5-4e21-945f-1046f1c8fdb6",
-      "ip": "180.252.120.143"
+      "total_device": 3,
+      "latest_hwid": "a47751e1-6933-433a-8976-c443cef4afc3",
+      "ip": "180.252.112.83"
     },
     {
       "discord_id": "837232430350860289",
