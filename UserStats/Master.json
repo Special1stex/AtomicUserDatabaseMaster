@@ -2486,12 +2486,12 @@
     },
     {
       "discord_id": "931797144925536256",
-      "total_execution": 7,
+      "total_execution": 8,
       "total_account": 1,
       "latest_execution_account": "2GDxNgebull",
-      "total_device": 1,
-      "latest_hwid": "eafdcc1b-9b18-41b5-a909-898dcb9016a2",
-      "ip": "140.213.65.84"
+      "total_device": 2,
+      "latest_hwid": "61b7f204-2e6b-46f6-a607-543d21e3f3fb",
+      "ip": "140.213.64.222"
     },
     {
       "discord_id": "524021275165720588",
