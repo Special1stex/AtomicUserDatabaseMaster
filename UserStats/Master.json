@@ -2825,6 +2825,15 @@
       "total_device": 1,
       "latest_hwid": "0df27147-bf6f-4c60-9fe5-7210b8602bf3",
       "ip": "103.47.132.11"
+    },
+    {
+      "discord_id": "708597442073067591",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "faris250210",
+      "total_device": 1,
+      "latest_hwid": "fb98c3b2-6ed7-4bec-86a5-9e75d8c1c6d9",
+      "ip": "110.138.81.175"
     }
   ]
 }
