@@ -1622,12 +1622,12 @@
     },
     {
       "discord_id": "1063999267733262438",
-      "total_execution": 60,
+      "total_execution": 61,
       "total_account": 6,
       "latest_execution_account": "burukatu",
-      "total_device": 2,
+      "total_device": 3,
       "latest_hwid": "846ac222-5f6e-4f49-924d-698b7028d68b",
-      "ip": "202.67.44.5"
+      "ip": "202.67.44.21"
     },
     {
       "discord_id": "1205429558824796181",
