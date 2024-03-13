@@ -1631,7 +1631,7 @@
     },
     {
       "discord_id": "1205429558824796181",
-      "total_execution": 42,
+      "total_execution": 43,
       "total_account": 1,
       "latest_execution_account": "ahaisul3",
       "total_device": 1,
@@ -2405,11 +2405,11 @@
     },
     {
       "discord_id": "728168658228084796",
-      "total_execution": 7,
+      "total_execution": 8,
       "total_account": 1,
       "latest_execution_account": "vcresmen",
       "total_device": 1,
-      "latest_hwid": "ce3c41c6-8432-4125-9ba9-d3c0fd2ea6f5",
+      "latest_hwid": "515c56fa-8ac5-449a-89cf-32273b026bf4",
       "ip": "180.254.69.79"
     },
     {
