@@ -2888,6 +2888,15 @@
       "total_device": 1,
       "latest_hwid": "1df0a65f-76d6-4471-8968-01d94a98ac39",
       "ip": "103.83.93.149"
+    },
+    {
+      "discord_id": "1133309373544931368",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "AbangFaridzi5",
+      "total_device": 1,
+      "latest_hwid": "755365ea-83fd-4281-8bf9-a77e9e073271",
+      "ip": "180.252.168.146"
     }
   ]
 }
