@@ -92,12 +92,12 @@
     },
     {
       "discord_id": "692643068473507842",
-      "total_execution": 19,
+      "total_execution": 20,
       "total_account": 5,
       "latest_execution_account": "Zyntrew",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "9924755c-cc8b-4c58-9fd3-30b8552004e6",
-      "ip": "180.243.1.29"
+      "ip": "180.243.10.123"
     },
     {
       "discord_id": "846079625922740224",
