@@ -2081,12 +2081,12 @@
     },
     {
       "discord_id": "480949627680718858",
-      "total_execution": 9,
+      "total_execution": 10,
       "total_account": 2,
       "latest_execution_account": "riskikun",
-      "total_device": 1,
-      "latest_hwid": "a6ab2bae-8122-46f8-bff1-6997547442b2",
-      "ip": "36.78.200.146"
+      "total_device": 2,
+      "latest_hwid": "ac94eb3d-3896-4b76-8977-85964a905dcd",
+      "ip": "36.78.200.193"
     },
     {
       "discord_id": "1045892393687330849",
