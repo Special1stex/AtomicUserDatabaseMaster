@@ -2,7 +2,7 @@
   "userstats": [
     {
       "discord_id": "283394144938754049",
-      "total_execution": 33,
+      "total_execution": 34,
       "total_account": 11,
       "latest_execution_account": "Blacktoyz05",
       "total_device": 1,
@@ -1613,11 +1613,11 @@
     },
     {
       "discord_id": "754965843334397985",
-      "total_execution": 24,
+      "total_execution": 25,
       "total_account": 4,
       "latest_execution_account": "XKttty_M0llyX",
       "total_device": 1,
-      "latest_hwid": "337a7de6-7ae1-4988-898d-6f8dc3a5b810",
+      "latest_hwid": "89a39daa-8e22-4e80-b0e2-26334d61b162",
       "ip": "101.128.103.73"
     },
     {
