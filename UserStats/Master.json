@@ -38,11 +38,11 @@
     },
     {
       "discord_id": "478094075048755230",
-      "total_execution": 133,
-      "total_account": 116,
-      "latest_execution_account": "khal_kronologi",
+      "total_execution": 134,
+      "total_account": 117,
+      "latest_execution_account": "Stresmene11",
       "total_device": 1,
-      "latest_hwid": "db2e8dd5-ef20-4948-9152-f8227f567862",
+      "latest_hwid": "f8d2ceac-d331-4674-b2fa-85c48ba4f0c5",
       "ip": "103.84.4.171"
     },
     {
@@ -2171,10 +2171,10 @@
     },
     {
       "discord_id": "580340707995156490",
-      "total_execution": 70,
+      "total_execution": 71,
       "total_account": 1,
       "latest_execution_account": "TonnyInternational",
-      "total_device": 5,
+      "total_device": 1,
       "latest_hwid": "f544d22e-1552-4562-bf93-1926d0067631",
       "ip": "114.5.110.172"
     },
