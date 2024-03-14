@@ -2099,12 +2099,12 @@
     },
     {
       "discord_id": "747808995330228274",
-      "total_execution": 31,
-      "total_account": 23,
-      "latest_execution_account": "parixgalu",
-      "total_device": 1,
-      "latest_hwid": "e60fb627-fc21-4270-a9fa-db6688630140",
-      "ip": "148.153.172.195"
+      "total_execution": 32,
+      "total_account": 24,
+      "latest_execution_account": "PHT_MINTA",
+      "total_device": 2,
+      "latest_hwid": "48819c91-4967-4893-817c-2c46c28af03f",
+      "ip": "148.153.172.181"
     },
     {
       "discord_id": "708305344593657877",
