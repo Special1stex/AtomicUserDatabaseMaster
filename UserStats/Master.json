@@ -2924,6 +2924,15 @@
       "total_device": 1,
       "latest_hwid": "64a35a88-782a-48d8-8845-8f2044421e20",
       "ip": "180.248.25.71"
+    },
+    {
+      "discord_id": "728568674041987102",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Shcklol",
+      "total_device": 1,
+      "latest_hwid": "d8dbf29a-981f-4793-9401-ea3bc30b75c4",
+      "ip": "111.95.0.226"
     }
   ]
 }
