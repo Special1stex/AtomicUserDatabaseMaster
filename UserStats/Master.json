@@ -1865,12 +1865,12 @@
     },
     {
       "discord_id": "852362472882831381",
-      "total_execution": 3,
+      "total_execution": 4,
       "total_account": 2,
       "latest_execution_account": "MoneySpawners",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "8f9059d7-9846-4408-8ede-6ad0acfc4462",
-      "ip": "161.142.154.108"
+      "ip": "161.142.154.142"
     },
     {
       "discord_id": "217564308404568065",
