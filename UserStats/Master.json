@@ -2900,12 +2900,12 @@
     },
     {
       "discord_id": "1132738800662085784",
-      "total_execution": 4,
+      "total_execution": 5,
       "total_account": 1,
       "latest_execution_account": "RaynBiturbo",
-      "total_device": 1,
-      "latest_hwid": "62283152-5318-4154-96f6-9a54d0a5ee5b",
-      "ip": "138.75.50.209"
+      "total_device": 2,
+      "latest_hwid": "834a2278-0f6e-4b16-96ad-de5ee19da2b9",
+      "ip": "111.65.61.142"
     },
     {
       "discord_id": "1071187253717635163",
