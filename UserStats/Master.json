@@ -1676,12 +1676,12 @@
     },
     {
       "discord_id": "1214859918578950165",
-      "total_execution": 59,
+      "total_execution": 60,
       "total_account": 2,
       "latest_execution_account": "Dastek1409",
-      "total_device": 2,
+      "total_device": 3,
       "latest_hwid": "c7db7126-6ded-44fe-9b21-6419092882ab",
-      "ip": "158.140.182.27"
+      "ip": "158.140.182.20"
     },
     {
       "discord_id": "1043773286695305246",
