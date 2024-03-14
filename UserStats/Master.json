@@ -2942,6 +2942,15 @@
       "total_device": 1,
       "latest_hwid": "a68d48da-dbb9-42a9-b5f2-e31332052ae8",
       "ip": "182.1.231.253"
+    },
+    {
+      "discord_id": "1103434704952234075",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "kintilnih",
+      "total_device": 1,
+      "latest_hwid": "30697d7c-a0b3-45c5-bb6e-8a34b864a77b",
+      "ip": "148.153.172.164"
     }
   ]
 }
