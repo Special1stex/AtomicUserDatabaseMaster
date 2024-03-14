@@ -1703,10 +1703,10 @@
     },
     {
       "discord_id": "990987609952108595",
-      "total_execution": 112,
+      "total_execution": 113,
       "total_account": 52,
       "latest_execution_account": "sky_blc",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "21573a8c-f060-4868-897e-5158b4df2ce6",
       "ip": "180.246.4.79"
     },
