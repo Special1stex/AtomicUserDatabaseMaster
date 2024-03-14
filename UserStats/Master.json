@@ -2054,12 +2054,12 @@
     },
     {
       "discord_id": "333900118614999042",
-      "total_execution": 10,
+      "total_execution": 11,
       "total_account": 1,
       "latest_execution_account": "eca24x",
-      "total_device": 5,
+      "total_device": 6,
       "latest_hwid": "f59ed462-42f6-4ea0-ac8a-0f2f57e7d378",
-      "ip": "140.213.9.1"
+      "ip": "140.213.35.208"
     },
     {
       "discord_id": "1029346808335450183",
@@ -2936,7 +2936,7 @@
     },
     {
       "discord_id": "910422612050579477",
-      "total_execution": 5,
+      "total_execution": 6,
       "total_account": 1,
       "latest_execution_account": "aangamingindonesiaa",
       "total_device": 1,
