@@ -2828,12 +2828,12 @@
     },
     {
       "discord_id": "708597442073067591",
-      "total_execution": 7,
+      "total_execution": 8,
       "total_account": 1,
       "latest_execution_account": "faris250210",
-      "total_device": 1,
-      "latest_hwid": "fb98c3b2-6ed7-4bec-86a5-9e75d8c1c6d9",
-      "ip": "110.138.81.175"
+      "total_device": 2,
+      "latest_hwid": "33bba247-9f21-4faf-995b-43530b3ed346",
+      "ip": "110.138.82.55"
     },
     {
       "discord_id": "784437303087071333",
