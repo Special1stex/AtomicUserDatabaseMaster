@@ -2960,6 +2960,15 @@
       "total_device": 1,
       "latest_hwid": "2C9247CD-A8DA-4414-BF71-9956D85E0C44",
       "ip": "185.54.231.52"
+    },
+    {
+      "discord_id": "1133296774967218267",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Kacey0820",
+      "total_device": 1,
+      "latest_hwid": "7d447fbb-9367-4618-b409-a9fd127c1608",
+      "ip": "125.164.182.22"
     }
   ]
 }
