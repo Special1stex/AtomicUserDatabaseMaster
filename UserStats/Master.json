@@ -2978,6 +2978,15 @@
       "total_device": 2,
       "latest_hwid": "a6ba7906-390e-4ff9-b2b7-f96d41aa09c0",
       "ip": "125.165.86.120"
+    },
+    {
+      "discord_id": "480295136740507698",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "REDdevilGTR",
+      "total_device": 1,
+      "latest_hwid": "0ef8c61f-28ce-4efc-b363-e98e885f802f",
+      "ip": "104.28.250.134"
     }
   ]
 }
