@@ -551,10 +551,10 @@
     },
     {
       "discord_id": "729663873682112562",
-      "total_execution": 129,
+      "total_execution": 130,
       "total_account": 102,
       "latest_execution_account": "forceshd123",
-      "total_device": 5,
+      "total_device": 1,
       "latest_hwid": "58eccdd2-1386-49bb-a75e-079a3d00dd50",
       "ip": "103.175.229.245"
     },
