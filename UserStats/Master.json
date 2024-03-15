@@ -2972,12 +2972,12 @@
     },
     {
       "discord_id": "831923442034671657",
-      "total_execution": 1,
+      "total_execution": 2,
       "total_account": 1,
       "latest_execution_account": "SenturioZ",
-      "total_device": 1,
-      "latest_hwid": "a4c9e0f8-e838-4c08-ae9b-3d2376497dc8",
-      "ip": "114.10.75.175"
+      "total_device": 2,
+      "latest_hwid": "a6ba7906-390e-4ff9-b2b7-f96d41aa09c0",
+      "ip": "125.165.86.120"
     }
   ]
 }
