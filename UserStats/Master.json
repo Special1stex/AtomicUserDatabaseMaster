@@ -2306,12 +2306,12 @@
     },
     {
       "discord_id": "1155477604644683867",
-      "total_execution": 3,
+      "total_execution": 4,
       "total_account": 1,
       "latest_execution_account": "FixxxyL",
-      "total_device": 1,
-      "latest_hwid": "c00130b4-9554-48f3-adc0-a872353c9e94",
-      "ip": "114.10.24.206"
+      "total_device": 2,
+      "latest_hwid": "e3d7e7f3-a547-4e92-872b-87a43344d807",
+      "ip": "180.254.65.110"
     },
     {
       "discord_id": "923595049319686164",
