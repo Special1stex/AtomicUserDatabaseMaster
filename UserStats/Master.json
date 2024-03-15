@@ -2951,6 +2951,15 @@
       "total_device": 1,
       "latest_hwid": "30697d7c-a0b3-45c5-bb6e-8a34b864a77b",
       "ip": "148.153.172.164"
+    },
+    {
+      "discord_id": "708416699829059647",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "merentaXDj",
+      "total_device": 1,
+      "latest_hwid": "2C9247CD-A8DA-4414-BF71-9956D85E0C44",
+      "ip": "185.54.231.52"
     }
   ]
 }
