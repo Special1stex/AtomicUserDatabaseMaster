@@ -1712,12 +1712,12 @@
     },
     {
       "discord_id": "695276325119983687",
-      "total_execution": 52,
+      "total_execution": 53,
       "total_account": 30,
       "latest_execution_account": "RGXA17",
-      "total_device": 2,
+      "total_device": 3,
       "latest_hwid": "8c859fa7-d081-4f49-8a43-7fb1942e1210",
-      "ip": "125.164.17.111"
+      "ip": "125.164.21.222"
     },
     {
       "discord_id": "1038985427757039776",
