@@ -2225,12 +2225,12 @@
     },
     {
       "discord_id": "932174346204626994",
-      "total_execution": 5,
+      "total_execution": 6,
       "total_account": 1,
       "latest_execution_account": "GALONM3LEDAK",
-      "total_device": 1,
-      "latest_hwid": "85b73aa3-7297-40e9-a387-13c845a87b50",
-      "ip": "180.244.167.4"
+      "total_device": 2,
+      "latest_hwid": "59f9fcf8-54f5-4441-8d85-027da3cb5d56",
+      "ip": "180.244.167.252"
     },
     {
       "discord_id": "1010538306792079421",
