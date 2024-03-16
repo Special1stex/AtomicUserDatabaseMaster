@@ -2540,10 +2540,10 @@
     },
     {
       "discord_id": "805487413035401297",
-      "total_execution": 32,
+      "total_execution": 33,
       "total_account": 12,
       "latest_execution_account": "r0b10xzr",
-      "total_device": 4,
+      "total_device": 1,
       "latest_hwid": "7359c1ac-a200-4ea0-8ea9-7ac4389891eb",
       "ip": "103.235.152.173"
     },
