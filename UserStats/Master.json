@@ -191,10 +191,10 @@
     },
     {
       "discord_id": "603579144965718056",
-      "total_execution": 124,
+      "total_execution": 125,
       "total_account": 69,
       "latest_execution_account": "AkuDevolt",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "67b68216-22df-42c8-9241-71acc707506a",
       "ip": "103.77.49.28"
     },
