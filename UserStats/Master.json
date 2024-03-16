@@ -21,10 +21,10 @@
     {
       "discord_id": "234554788845584384",
       "total_execution": 125,
-      "total_account": 102,
-      "latest_execution_account": "wachinghyao",
+      "total_account": 101,
+      "latest_execution_account": "ZIKO_358",
       "total_device": 1,
-      "latest_hwid": "1219a6b2-f33a-4079-808c-322650cd5cf5",
+      "latest_hwid": "e573ccbe-9e53-4748-bbd5-50db7fc31d91",
       "ip": "103.136.56.178"
     },
     {
@@ -1190,7 +1190,7 @@
     },
     {
       "discord_id": "862979280552329243",
-      "total_execution": 14,
+      "total_execution": 15,
       "total_account": 10,
       "latest_execution_account": "MasGowpal",
       "total_device": 1,
