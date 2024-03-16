@@ -1694,12 +1694,12 @@
     },
     {
       "discord_id": "1025948056803365006",
-      "total_execution": 59,
+      "total_execution": 60,
       "total_account": 29,
       "latest_execution_account": "Xanz338",
-      "total_device": 1,
-      "latest_hwid": "afa40778-bdc7-4ce8-b8bc-74653355348e",
-      "ip": "103.130.18.13"
+      "total_device": 2,
+      "latest_hwid": "e58e8d4d-9a22-42c9-8913-2fdfe3ea2cd4",
+      "ip": "103.130.18.1"
     },
     {
       "discord_id": "990987609952108595",
