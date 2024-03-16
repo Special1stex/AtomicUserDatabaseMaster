@@ -1406,10 +1406,10 @@
     },
     {
       "discord_id": "1211931238705799208",
-      "total_execution": 141,
+      "total_execution": 142,
       "total_account": 90,
       "latest_execution_account": "Mvriot1",
-      "total_device": 7,
+      "total_device": 1,
       "latest_hwid": "a7822210-8db7-4952-af84-622b40204db8",
       "ip": "103.154.109.99"
     },
