@@ -866,12 +866,12 @@
     },
     {
       "discord_id": "892959101909352458",
-      "total_execution": 5,
+      "total_execution": 6,
       "total_account": 1,
       "latest_execution_account": "deshannarsy",
-      "total_device": 1,
-      "latest_hwid": "bbfdbf3c-63de-4c40-83d4-2633d8ac0226",
-      "ip": "111.94.110.197"
+      "total_device": 2,
+      "latest_hwid": "a0c5e8af-2d3d-46c1-a853-4453d3731731",
+      "ip": "111.94.110.93"
     },
     {
       "discord_id": "335662677487648768",
