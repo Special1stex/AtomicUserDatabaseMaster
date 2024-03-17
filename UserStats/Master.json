@@ -2504,10 +2504,10 @@
     },
     {
       "discord_id": "1090530490303397910",
-      "total_execution": 28,
+      "total_execution": 29,
       "total_account": 9,
       "latest_execution_account": "BFW_1235",
-      "total_device": 3,
+      "total_device": 1,
       "latest_hwid": "c8930bd0-ddfb-4912-8ecf-c6831542f985",
       "ip": "36.68.55.208"
     },
