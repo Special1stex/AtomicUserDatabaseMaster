@@ -3059,6 +3059,15 @@
       "total_device": 1,
       "latest_hwid": "7920dac0-e61d-4f7f-9821-dedaf57611dc",
       "ip": "110.137.101.154"
+    },
+    {
+      "discord_id": "384322856751857668",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "FS_JIN",
+      "total_device": 1,
+      "latest_hwid": "7e136db2-eb6c-4b68-87f4-b4032cbed3ef",
+      "ip": "110.137.193.86"
     }
   ]
 }
