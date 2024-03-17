@@ -641,12 +641,12 @@
     },
     {
       "discord_id": "1127183577965150228",
-      "total_execution": 7,
+      "total_execution": 8,
       "total_account": 6,
       "latest_execution_account": "pengendarakevin",
-      "total_device": 1,
-      "latest_hwid": "0bfa3963-414e-4eda-a4ef-473516b1e924",
-      "ip": "140.213.10.209"
+      "total_device": 2,
+      "latest_hwid": "449b67fa-fc68-4693-bf16-023f2ecc69e3",
+      "ip": "140.213.10.64"
     },
     {
       "discord_id": "255224846580056064",
