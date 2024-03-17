@@ -3068,6 +3068,15 @@
       "total_device": 1,
       "latest_hwid": "7e136db2-eb6c-4b68-87f4-b4032cbed3ef",
       "ip": "110.137.193.86"
+    },
+    {
+      "discord_id": "1059641652295254108",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "SILVER_BACK77",
+      "total_device": 1,
+      "latest_hwid": "791dac0a-e939-4142-b6fc-0f4b26c4798a",
+      "ip": "103.186.35.98"
     }
   ]
 }
