@@ -1055,12 +1055,12 @@
     },
     {
       "discord_id": "1112694114119602220",
-      "total_execution": 4,
+      "total_execution": 5,
       "total_account": 1,
       "latest_execution_account": "AKUGEV",
-      "total_device": 1,
-      "latest_hwid": "e50fb0d5-995d-42e2-981a-30cadc61dedc",
-      "ip": "125.161.178.18"
+      "total_device": 2,
+      "latest_hwid": "78b5b2db-bc4d-40d1-899e-3b4cfb768c6e",
+      "ip": "125.166.116.47"
     },
     {
       "discord_id": "506025012080279552",
