@@ -758,12 +758,12 @@
     },
     {
       "discord_id": "1064170691915685948",
-      "total_execution": 123,
+      "total_execution": 124,
       "total_account": 71,
       "latest_execution_account": "PSX1_21",
-      "total_device": 1,
-      "latest_hwid": "56566d1c-74aa-4e93-b16b-1876ea7a6411",
-      "ip": "158.140.170.51"
+      "total_device": 2,
+      "latest_hwid": "c262816f-794d-463b-90b2-2f11fe9b421f",
+      "ip": "158.140.166.90"
     },
     {
       "discord_id": "738328652747374643",
