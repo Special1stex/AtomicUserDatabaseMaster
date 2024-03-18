@@ -2180,12 +2180,12 @@
     },
     {
       "discord_id": "817972986169786398",
-      "total_execution": 38,
+      "total_execution": 39,
       "total_account": 6,
       "latest_execution_account": "lilac_lazyyyy",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "7cabcf38-4249-4a15-a91d-9119efb88bc7",
-      "ip": "114.5.110.146"
+      "ip": "114.5.108.44"
     },
     {
       "discord_id": "908212206288650260",
@@ -2810,10 +2810,10 @@
     },
     {
       "discord_id": "1215928552449380477",
-      "total_execution": 74,
+      "total_execution": 75,
       "total_account": 42,
       "latest_execution_account": "oplai1236",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "c3c40a82-0c7f-4ce7-8481-4c9bf127d1fa",
       "ip": "182.4.38.200"
     },
