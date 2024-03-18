@@ -2,12 +2,12 @@
   "userstats": [
     {
       "discord_id": "283394144938754049",
-      "total_execution": 51,
+      "total_execution": 52,
       "total_account": 14,
       "latest_execution_account": "Winskywinn",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "f3b32ceb-32ad-45ea-8340-b447b9de758c",
-      "ip": "180.244.164.170"
+      "ip": "180.244.162.93"
     },
     {
       "discord_id": "314087358440013835",
