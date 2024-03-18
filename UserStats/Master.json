@@ -3140,6 +3140,15 @@
       "total_device": 1,
       "latest_hwid": "a506ea10-cde2-4706-b7d8-f9c6c6e04311",
       "ip": "180.242.144.251"
+    },
+    {
+      "discord_id": "213520975000633348",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "OFBroVan",
+      "total_device": 1,
+      "latest_hwid": "ef480301-baf3-4bd5-8a89-612fc4d2e23a",
+      "ip": "36.68.11.55"
     }
   ]
 }
