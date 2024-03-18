@@ -2675,10 +2675,10 @@
     },
     {
       "discord_id": "1132339363569729646",
-      "total_execution": 4,
+      "total_execution": 5,
       "total_account": 1,
       "latest_execution_account": "creamfad",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "9b1c1e59-d3bf-4ae1-ac6e-a54a03ae838b",
       "ip": "125.160.254.232"
     },
