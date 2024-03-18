@@ -3161,10 +3161,10 @@
     },
     {
       "discord_id": "390044008753135628",
-      "total_execution": 7,
+      "total_execution": 8,
       "total_account": 1,
       "latest_execution_account": "hashira_shinobu",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "ec29d3be-f746-4545-9a70-4479325ce35f",
       "ip": "112.215.225.180"
     },
