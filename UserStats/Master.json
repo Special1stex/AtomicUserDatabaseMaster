@@ -794,10 +794,10 @@
     },
     {
       "discord_id": "712912145490116619",
-      "total_execution": 47,
+      "total_execution": 48,
       "total_account": 23,
       "latest_execution_account": "fdlan08",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "5b8b6b2c-97ef-49c3-aa4b-ec35f3a50515",
       "ip": "36.77.77.172"
     },
