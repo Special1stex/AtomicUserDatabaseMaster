@@ -2810,10 +2810,10 @@
     },
     {
       "discord_id": "1215928552449380477",
-      "total_execution": 72,
+      "total_execution": 73,
       "total_account": 41,
       "latest_execution_account": "CDID_Convoy",
-      "total_device": 5,
+      "total_device": 1,
       "latest_hwid": "e1e58ab8-c525-479f-a84a-be0ae5deebf1",
       "ip": "36.69.116.167"
     },
