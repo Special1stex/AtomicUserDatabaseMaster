@@ -3095,6 +3095,15 @@
       "total_device": 1,
       "latest_hwid": "29e14c46-b94e-4f71-87b9-80b616079c8f",
       "ip": "103.189.207.241"
+    },
+    {
+      "discord_id": "318905736329428993",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "BozAang",
+      "total_device": 1,
+      "latest_hwid": "05afc06d-f526-4f99-b300-8d489bcafdb6",
+      "ip": "104.28.253.103"
     }
   ]
 }
