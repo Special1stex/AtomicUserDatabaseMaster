@@ -551,12 +551,12 @@
     },
     {
       "discord_id": "729663873682112562",
-      "total_execution": 154,
+      "total_execution": 155,
       "total_account": 120,
       "latest_execution_account": "ynsf34",
-      "total_device": 1,
-      "latest_hwid": "58eccdd2-1386-49bb-a75e-079a3d00dd50",
-      "ip": "125.167.59.2"
+      "total_device": 2,
+      "latest_hwid": "ef50b779-22d7-49a9-87b2-c082f00a39e9",
+      "ip": "125.167.57.68"
     },
     {
       "discord_id": "485809684784218112",
