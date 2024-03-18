@@ -3161,12 +3161,12 @@
     },
     {
       "discord_id": "390044008753135628",
-      "total_execution": 8,
+      "total_execution": 9,
       "total_account": 1,
       "latest_execution_account": "hashira_shinobu",
-      "total_device": 1,
-      "latest_hwid": "ec29d3be-f746-4545-9a70-4479325ce35f",
-      "ip": "112.215.225.180"
+      "total_device": 2,
+      "latest_hwid": "d956c865-860f-4f24-bf07-7e55b37a7982",
+      "ip": "180.252.169.142"
     },
     {
       "discord_id": "809726807132602368",
