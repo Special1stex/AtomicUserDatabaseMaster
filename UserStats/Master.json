@@ -3122,6 +3122,15 @@
       "total_device": 1,
       "latest_hwid": "524471d9-244c-44cd-8535-534515099aaf",
       "ip": "180.243.5.204"
+    },
+    {
+      "discord_id": "852760162301378570",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "D3CRYPT3Dz",
+      "total_device": 1,
+      "latest_hwid": "068f659e-71ab-453e-b0c8-0937a09d102c",
+      "ip": "212.30.61.130"
     }
   ]
 }
