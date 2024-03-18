@@ -2837,10 +2837,10 @@
     },
     {
       "discord_id": "784437303087071333",
-      "total_execution": 51,
+      "total_execution": 52,
       "total_account": 2,
       "latest_execution_account": "KUANTOL1",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "bee9e26c-5dc6-4b3f-8abb-bcef562f7579",
       "ip": "36.70.66.246"
     },
