@@ -3167,6 +3167,15 @@
       "total_device": 1,
       "latest_hwid": "ec29d3be-f746-4545-9a70-4479325ce35f",
       "ip": "180.252.169.142"
+    },
+    {
+      "discord_id": "809726807132602368",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Ghea_vanessa",
+      "total_device": 1,
+      "latest_hwid": "d0254424-ca7f-4e4c-85ff-338c7579fcff",
+      "ip": "182.3.42.66"
     }
   ]
 }
