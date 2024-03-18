@@ -713,12 +713,12 @@
     },
     {
       "discord_id": "1029427321922392125",
-      "total_execution": 222,
-      "total_account": 190,
-      "latest_execution_account": "slow_owe",
-      "total_device": 1,
-      "latest_hwid": "4df39c0a-3236-4db0-a850-4cc2ac25a2db",
-      "ip": "180.252.121.122"
+      "total_execution": 223,
+      "total_account": 191,
+      "latest_execution_account": "FritzSRG",
+      "total_device": 2,
+      "latest_hwid": "7e00f1fe-690e-4445-b65f-ef767f3273a5",
+      "ip": "139.193.137.171"
     },
     {
       "discord_id": "1052197271787278386",
