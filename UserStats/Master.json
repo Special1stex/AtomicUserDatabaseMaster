@@ -848,12 +848,12 @@
     },
     {
       "discord_id": "951400092169015356",
-      "total_execution": 10,
+      "total_execution": 11,
       "total_account": 3,
       "latest_execution_account": "Renelisx",
-      "total_device": 3,
-      "latest_hwid": "aaff773c-cd36-4e53-8d6e-e24f4b8956b5",
-      "ip": "114.122.76.152"
+      "total_device": 4,
+      "latest_hwid": "17570f12-00fe-4be8-8929-b118a58a58f3",
+      "ip": "114.122.68.144"
     },
     {
       "discord_id": "1022437059786448896",
