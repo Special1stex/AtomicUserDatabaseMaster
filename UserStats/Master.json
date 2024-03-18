@@ -758,10 +758,10 @@
     },
     {
       "discord_id": "1064170691915685948",
-      "total_execution": 124,
+      "total_execution": 125,
       "total_account": 71,
       "latest_execution_account": "PSX1_21",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "c262816f-794d-463b-90b2-2f11fe9b421f",
       "ip": "158.140.166.90"
     },
