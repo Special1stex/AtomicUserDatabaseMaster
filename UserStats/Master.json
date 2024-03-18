@@ -3149,6 +3149,15 @@
       "total_device": 1,
       "latest_hwid": "ef480301-baf3-4bd5-8a89-612fc4d2e23a",
       "ip": "36.68.11.55"
+    },
+    {
+      "discord_id": "162498065218011136",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "WildWind12",
+      "total_device": 1,
+      "latest_hwid": "a2b8d429-36b9-4c12-bb27-84072532bcf4",
+      "ip": "45.8.25.68"
     }
   ]
 }
